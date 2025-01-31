@@ -1,6 +1,5 @@
-## Hi there 👋
-
 <!--
+## Hi there 👋
 **JennyZhang0810/JennyZhang0810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,16 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Metrics](https://metrics.lecoq.io/JennyZhang0810?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
-
-<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=JennyZhang0810&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
-
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JennyZhang0810&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
-
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=JennyZhang0810" /> </div>
-
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=JennyZhang0810&theme=xcode" /> </div>
-
-<div align="center"> <img src="https://blog.csdn.net/qq_53826699?spm=1000.2115.3001.5343"> </div>
-<div align="center"> <img src="https://www.xiaohongshu.com/user/profile/5b83ef0e3be32600019bdeba"> </div>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7D919&background=FFE87800&width=435&lines=Hello%2C+Welcome+to+Jenny's+Channel~)](https://git.io/typing-svg)
