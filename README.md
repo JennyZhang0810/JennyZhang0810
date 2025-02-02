@@ -18,5 +18,6 @@ Here are some ideas to get you started:
 
 ![Red Book Followers](https://img.shields.io/badge/红%20red%20book-1w3%20followers-FF2442)
 ![Zhihu Followers](https://img.shields.io/badge/知%20zhihu-1k%20followers-157EFF)
+![Bilibili Followers](https://img.shields.io/badge/Bilibili-625%20followers-DF6DA9?style=flat&labelColor=FE7398)
 
 
