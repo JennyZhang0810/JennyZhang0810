@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning advanced techniques in remote sensing image generation and remote sensing data synthesis.  
 - 👯 I’m looking to collaborate on research projects related to remote sensing image generation and remote sensing data creation. If you’re interested, feel free to reach out!  
 - 💬 Ask me about anything related to AI, computer vision, or image processing!  
-- 📫 How to reach me: 202421080308@std.uestc.edu.cn (for official use) or 870076398@qq.com (for personal use). [Email](mailto:202421080308@std.uestc.edu.cn) / [Github](https://jennyzhang0810.github.io/) / [CSDN](https://blog.csdn.net/qq_53826699?spm=1000.2115.3001.5343) / [Google Scholar](https://scholar.google.com.hk/citations?view_op=list_works&hl=zh-CN&user=ONaB5qUAAAAJ&gmla=AGd7smErZcqENKhusFfsjjZUsdpojDNF118f8UxcxxI0KuiMMK34GJe_I2VFHhRXRha8bTxg4Ed8b4Xv5waZNiut2uX2wuly94-ENcEm1mFf0x9eB1jzXzVy6G4)
+- 📫 How to reach me: 202421080308@std.uestc.edu.cn (for official use) or 870076398@qq.com (for personal use).                                                                        [Email](mailto:202421080308@std.uestc.edu.cn) / [Github](https://jennyzhang0810.github.io/) / [CSDN](https://blog.csdn.net/qq_53826699?spm=1000.2115.3001.5343) / [Google Scholar](https://scholar.google.com.hk/citations?view_op=list_works&hl=zh-CN&user=ONaB5qUAAAAJ&gmla=AGd7smErZcqENKhusFfsjjZUsdpojDNF118f8UxcxxI0KuiMMK34GJe_I2VFHhRXRha8bTxg4Ed8b4Xv5waZNiut2uX2wuly94-ENcEm1mFf0x9eB1jzXzVy6G4)
 - ⚡ Fun fact: I’m passionate about traveling, hosting, public speaking, debating, playing the piano, and practicing calligraphy. I’d love to connect and make new friends!  
 
 
