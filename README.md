@@ -23,6 +23,13 @@ Here are some ideas to get you started:
 ![CSDN Followers](https://img.shields.io/badge/CSDN-9k%20followers-F15A29?style=flat&labelColor=E1E8F0)
 
 
+![小红书](https://img.shields.io/badge/小红书-1w2%20followers-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white)
+![知乎](https://img.shields.io/badge/知乎-685%20followers-0084FF?style=for-the-badge&logo=zhihu&logoColor=white)
+![CSDN](https://img.shields.io/badge/CSDN-9k%20followers-DC382D?style=for-the-badge&logo=csdn&logoColor=white)
+![微博](https://img.shields.io/badge/微博-978%20followers-FC9D99?style=for-the-badge&logo=sina-weibo&logoColor=white)
+![Bilibili](https://img.shields.io/badge/Bilibili-485%20followers-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)
+
+
 <div align="center">
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Achuan-2" />
 </div>
