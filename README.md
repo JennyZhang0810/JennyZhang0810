@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7D919&background=FFE87800&width=435&lines=Hello%2C+Welcome+to+Jenny's+Channel~)](https://git.io/typing-svg)
 
-![Red Book Fans](https://img.shields.io/badge/red%20book-1w3-ff2442)
+![Red Book Fans](https://img.shields.io/badge/red%20book-1w3 followers-ff2442)
+![Zhihu Fans](https://img.shields.io/badge/知%20zhihu-1k-0084ff)
+
