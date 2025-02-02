@@ -35,6 +35,12 @@ Here are some ideas to get you started:
 ![Weibo Followers](https://img.shields.io/badge/微博-978%20followers-D81E06?style=flat&labelColor=E1E8F0&logo=sina-weibo&logoColor=D81E06)  
 ![Bilibili Followers](https://img.shields.io/badge/Bilibili-485%20followers-00A1D6?style=flat&labelColor=E1E8F0&logo=bilibili&logoColor=00A1D6)  
 
+![Red Book Followers](https://img.shields.io/badge/小红书-1w2%20followers-FF2442?style=flat&labelColor=E1E8F0&logo=xiaohongshu&logoColor=FF2442) 
+![Zhihu Followers](https://img.shields.io/badge/知乎-685%20followers-0084FF?style=flat&labelColor=E1E8F0&logo=zhihu&logoColor=0084FF) 
+![CSDN Followers](https://img.shields.io/badge/CSDN-9k%20followers-DC382D?style=flat&labelColor=E1E8F0&logo=csdn&logoColor=DC382D) 
+![Weibo Followers](https://img.shields.io/badge/微博-978%20followers-D81E06?style=flat&labelColor=E1E8F0&logo=sina-weibo&logoColor=D81E06) 
+![Bilibili Followers](https://img.shields.io/badge/Bilibili-485%20followers-00A1D6?style=flat&labelColor=E1E8F0&logo=bilibili&logoColor=00A1D6)
+
 
 
 
