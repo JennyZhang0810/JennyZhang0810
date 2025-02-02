@@ -27,3 +27,23 @@ Here are some ideas to get you started:
 </div>
 
 [![Jenny's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JennyZhang0810)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## 🔥📢 Updating Recent News!
+
+- 🎉 **24-12**: 8th place in the 2nd Provincial Career Planning Competition of Sichuan (**the only graduate student** in the province to enter the finals)
+- 🏆 **24-12**: **Champion** of the 8th Graduate Debate Competition of UESTC
+- 🥇 **24-11**: Winner of the University-level Award in UESTC Host Competition, **3rd place** in the University-level Ballroom Dance Competition
+- 🎓 **24-6**: **Outstanding Graduate Thesis Award in Shandong Province**
+- 🌟 **24-5**: **Outstanding Graduate and Outstanding Student Cadre of Shandong Province**
+- 🥈 **24-5**: **National Second Prize** in the FLTRP English Debate Competition, East China Regional **First Prize**, East **China Best Debater**
+- 📄 **24-4**: Published my **first paper**
+- 🥉 **24-3**: **National Third Place** in the International Speech and Debate Competition, Best Debater Award
+- 🏅 **23-11**: **National Second Prize** in CUDC English Debate Competition
+- 🏅 **23-9**: Achieved **1st place** in the exempt admission qualification and ranked **1st** in the pre-admission assessment
+- 🥈 **23-4**: **National Runner-up** in the National University English Debate Olympics, Best Debater
+- 🏆 **23-2**: **National Champion** in WIV English Debate Competition, Best Debater of the Competition
+
+
+
+
+
