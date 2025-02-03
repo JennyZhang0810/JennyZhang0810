@@ -1,5 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7D919&background=FFE87800&width=435&lines=Hello%2C+Welcome+to+Jenny's+Channel~)](https://git.io/typing-svg)
 
+![Red Book Followers](https://img.shields.io/badge/小红书-1w2%20followers-FF2442?style=flat&labelColor=E1E8F0&logo=xiaohongshu&logoColor=FF2442) 
+![Zhihu Followers](https://img.shields.io/badge/知乎-685%20followers-0084FF?style=flat&labelColor=E1E8F0&logo=zhihu&logoColor=0084FF) 
+![CSDN Followers](https://img.shields.io/badge/CSDN-9k%20followers-DC382D?style=flat&labelColor=E1E8F0&logo=csdn&logoColor=DC382D) 
+![Weibo Followers](https://img.shields.io/badge/微博-978%20followers-D81E06?style=flat&labelColor=E1E8F0&logo=sina-weibo&logoColor=D81E06) 
+![Bilibili Followers](https://img.shields.io/badge/Bilibili-485%20followers-00A1D6?style=flat&labelColor=E1E8F0&logo=bilibili&logoColor=00A1D6)
+
 ## 👋 About Me
 - 🔭 I’m currently a first-year graduate student from the [School of Computer Science and Engineering](https://www.scse.uestc.edu.cn/), [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/).  
   I am a member of the [Center for Future Media](https://cfm.uestc.edu.cn/index) at UESTC and am very fortunate to be advised by [Prof. Yang Yang](https://cfm.uestc.edu.cn/~yangyang/) and [Prof. Wang Guoqing](https://scholar.google.com.hk/citations?hl=zh-CN&user=V08v5OEAAAAJ) from the School of Computer Science and Engineering, UESTC.
@@ -25,10 +31,7 @@
 - 🥈 **23-4**: **National Runner-up** in the National University English Debate Olympics, Best Debater
 - 🏆 **23-2**: **National Champion** in WIV English Debate Competition, Best Debater of the Competition
 
-![Red Book Followers](https://img.shields.io/badge/小红书-1w2%20followers-FF2442?style=flat&labelColor=E1E8F0&logo=xiaohongshu&logoColor=FF2442) 
-![Zhihu Followers](https://img.shields.io/badge/知乎-685%20followers-0084FF?style=flat&labelColor=E1E8F0&logo=zhihu&logoColor=0084FF) 
-![CSDN Followers](https://img.shields.io/badge/CSDN-9k%20followers-DC382D?style=flat&labelColor=E1E8F0&logo=csdn&logoColor=DC382D) 
-![Weibo Followers](https://img.shields.io/badge/微博-978%20followers-D81E06?style=flat&labelColor=E1E8F0&logo=sina-weibo&logoColor=D81E06) 
+a-weibo&logoColor=D81E06) 
 ![Bilibili Followers](https://img.shields.io/badge/Bilibili-485%20followers-00A1D6?style=flat&labelColor=E1E8F0&logo=bilibili&logoColor=00A1D6)
 
 <div align="center">
