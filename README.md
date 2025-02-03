@@ -36,7 +36,7 @@
 ### 1. Semantic Segmentation 🧑‍🔬
 
 - **MCANet: Medical Image Segmentation with Multi-Scale Cross-Axis Attention**  
-  Link: [MCANet GitHub Repository](https://github.com/haoshao-nku/medical_seg?tab=readme-ov-file)  
+  Link: [MCANet GitHub Repository](https://github.com/JennyZhang0810/Medical_Seg)  
   MCANet utilizes multi-scale cross-axis attention mechanisms for medical image segmentation, achieving better performance by capturing both local and global context. Check out the code to explore the implementation and try it for your own projects!
 
 ### 2. Remote Sensing Image Generation 🌍
