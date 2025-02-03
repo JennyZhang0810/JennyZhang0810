@@ -31,8 +31,24 @@
 - 🥈 **23-4**: **National Runner-up** in the National University English Debate Olympics, Best Debater
 - 🏆 **23-2**: **National Champion** in WIV English Debate Competition, Best Debater of the Competition
 
-a-weibo&logoColor=D81E06) 
-![Bilibili Followers](https://img.shields.io/badge/Bilibili-485%20followers-00A1D6?style=flat&labelColor=E1E8F0&logo=bilibili&logoColor=00A1D6)
+## Code Reproduction 📂
+
+### 1. Semantic Segmentation 🧑‍🔬
+
+- **MCANet: Medical Image Segmentation with Multi-Scale Cross-Axis Attention**  
+  Link: [MCANet GitHub Repository](https://github.com/haoshao-nku/medical_seg?tab=readme-ov-file)  
+  MCANet utilizes multi-scale cross-axis attention mechanisms for medical image segmentation, achieving better performance by capturing both local and global context. Check out the code to explore the implementation and try it for your own projects!
+
+### 2. Remote Sensing Image Generation 🌍
+
+- **Coming Soon...**  
+  In this section, I will share relevant code related to remote sensing image generation once the research and implementation are completed. Stay tuned! 🚀
+
+### 3. Others 🔧
+
+- **Additional Projects**  
+  This section will feature other exciting code reproductions related to various computer vision tasks, like image processing, object detection, and more. I'll update it with links and resources as I progress through new experiments. Keep an eye out for updates! 👀
+
 
 <div align="center">
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Achuan-2" />
