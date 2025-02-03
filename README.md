@@ -49,6 +49,42 @@
 - **Additional Projects**  
   This section will feature other exciting code reproductions related to various computer vision tasks, like image processing, object detection, and more. I'll update it with links and resources as I progress through new experiments. Keep an eye out for updates! 👀
 
+## Recent Blog ✍️  
+
+Stay updated with my latest blogs on debugging, research papers, and image generation! 🚀  
+
+### 1. Debug 🔧  
+
+- **[✔ Solved] Downloading All Files from Hugging Face via Command Line**  
+  [Read more](https://blog.csdn.net/qq_53826699/article/details/145122588?spm=1001.2014.3001.5501)  
+
+- **[✔ Solved] Git Clone Failure on GitHub/Hugging Face – Troubleshooting Guide**  
+  [Read more](https://blog.csdn.net/qq_53826699/article/details/145099372?spm=1001.2014.3001.5501)  
+
+- **[✔ Solved] OSError: Can’t Load Tokenizer for ‘openai/clip-vit-large-patch14’**  
+  [Read more](https://blog.csdn.net/qq_53826699/article/details/144948991?spm=1001.2014.3001.5501)  
+
+- **[✔ Solved] ModuleNotFoundError: No module named ‘ldm.util’**  
+  [Read more](https://blog.csdn.net/qq_53826699/article/details/144947868?spm=1001.2014.3001.5501)  
+
+---
+
+### 2. Paper Reading 📚  
+
+#### (1) Remote Sensing Image Generation 🌍  
+
+- **Generate Your Own Scotland: Satellite Image Generation Conditioned on Maps (NIPSW 2023)**  
+  [Read more](https://blog.csdn.net/qq_53826699/article/details/145213705?spm=1001.2014.3001.5501)  
+
+- **RSDiff: Remote Sensing Image Generation from Text using Diffusion Model (Neural Computing 2024)**  
+  [Read more](https://blog.csdn.net/qq_53826699/article/details/145163407?spm=1001.2014.3001.5501)  
+
+- **Efficient Post-disaster Remote Sensing Image Synthesis using Diffusion & LLMs**  
+  [Read more](https://blog.csdn.net/qq_53826699/article/details/145162164?spm=1001.2014.3001.5501)  
+
+- **CRS-Diff: C
+
+
 
 <div align="center">
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Achuan-2" />
