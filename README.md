@@ -82,7 +82,41 @@ Stay updated with my latest blogs on debugging, research papers, and image gener
 - **Efficient Post-disaster Remote Sensing Image Synthesis using Diffusion & LLMs**  
   [Read more](https://blog.csdn.net/qq_53826699/article/details/145162164?spm=1001.2014.3001.5501)  
 
-- **CRS-Diff: C
+- **CRS-Diff: Controllable Remote Sensing Image Generation with Diffusion Model**  
+  [Read more](https://blog.csdn.net/qq_53826699/article/details/145095557?spm=1001.2014.3001.5501)  
+
+- **MetaEarth: A Generative Foundation Model for Global-Scale Remote Sensing Image Generation**  
+  [Read more](https://blog.csdn.net/qq_53826699/article/details/145083671?spm=1001.2014.3001.5501)  
+
+- **GeoSynth: Contextually-Aware High-Resolution Satellite Image Synthesis (CVPRW 2024)**  
+  [Read more](https://blog.csdn.net/qq_53826699/article/details/145044012?spm=1001.2014.3001.5501)  
+
+- **Text2Earth: Unlocking Text-driven Remote Sensing Image Generation**  
+  [Read more](https://blog.csdn.net/qq_53826699/article/details/145005053?spm=1001.2014.3001.5501)  
+
+#### (2) Fundamental Knowledge 📖  
+
+- **Breaking Down SDXL, SD1.5, SD2.0, SD3, SD3.5, Flux, VAR, Infinity**  
+  A deep dive into the latest diffusion and autoregressive models! 🔥  
+  [Read more](https://blog.csdn.net/qq_53826699/article/details/144992115?spm=1001.2014.3001.5501)  
+
+#### (3) Natural Image Generation 🎨  
+
+- **DreamBooth: Fine-Tuning Text-to-Image Diffusion Models for Subject-Driven Generation**  
+  [Read more](https://blog.csdn.net/qq_53826699/article/details/143726251?spm=1001.2014.3001.5501)  
+
+- **LooseControl: Lifting ControlNet for Generalized Depth Conditioning**  
+  [Read more](https://blog.csdn.net/qq_53826699/article/details/143678208?spm=1001.2014.3001.5501)  
+
+- **SmartControl: Enhancing ControlNet for Handling Rough Visual Conditions**  
+  [Read more](https://blog.csdn.net/qq_53826699/article/details/143627365?spm=1001.2014.3001.5501)  
+
+- **DINOv2: Learning Robust Visual Features without Supervision (CVPR 2023)**  
+  [Read more](https://blog.csdn.net/qq_53826699/article/details/143524074?spm=1001.2014.3001.5501)  
+
+---
+
+📌 **For more in-depth paper readings and research updates, check out my repositories!** Don't forget to ⭐ follow and bookmark for future insights! 🚀  
 
 
 
