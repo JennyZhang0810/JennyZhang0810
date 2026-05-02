@@ -37,7 +37,8 @@
   - Remote sensing image generation & data synthesis
   - Synthetic data for object detection (when and why it helps)
   - Low-shot / few-shot learning and cross-domain generalization
-- ⚡ **Beyond Research**: Traveling, public speaking & debating, piano, and calligraphy
+- 📢 **Beyond Research**: Learning blogger (30K+ followers), host of 30+ reading clubs, and featured as the only female candidate in UESTC's "Holistic Education" youth representative series.
+- ⚡ **Interests**: Piano (Grade 10), English debating (national champion), traveling, and calligraphy – I believe that art and logic are not parallel lines, but intertwined dimensions of thinking.
 
 ---
 
@@ -61,6 +62,14 @@
   <img src="https://via.placeholder.com/800x250?text=S2-Det+Synthetic+Data+Pipeline" width="48%">
   <img src="https://via.placeholder.com/800x250?text=Low-Altitude+Dataset+Preview" width="48%">
 </p>
+
+---
+
+## 📰 Media & Community
+
+- 🎙️ **"Holistic Education" Youth Representative**, UESTC – [Full interview](https://mp.weixin.qq.com/s/u7JlelEkxGUc0SlxUXVZPQ)
+- 💡 **Learning blogger** across Xiaohongshu, Zhihu, and CSDN (30K+ followers) – sharing study strategies, PhD life, and personal growth.
+- 📖 Organized and hosted **30+ offline reading clubs** and logged **40+ hours** of student talk sessions.
 
 ---
 
