@@ -22,7 +22,6 @@
 ![Red Book](https://img.shields.io/badge/小红书-1.2w%20followers-FF2442?style=flat-square&logo=xiaohongshu&logoColor=white)
 ![Zhihu](https://img.shields.io/badge/知乎-685%20followers-0084FF?style=flat-square&logo=zhihu&logoColor=white)
 ![CSDN](https://img.shields.io/badge/CSDN-3.4W%20followers-DC382D?style=flat-square&logo=csdn&logoColor=white)
-![Weibo](https://img.shields.io/badge/微博-985%20followers-D81E06?style=flat-square&logo=sina-weibo&logoColor=white)
 ![Bilibili](https://img.shields.io/badge/Bilibili-485%20followers-00A1D6?style=flat-square&logo=bilibili&logoColor=white)
 
 </div>
@@ -73,9 +72,6 @@
 | 2025 | 🥇 **FLTRP National English Debate Champion & Best Debater** |
 | 2024 | 🎤 8th Place in Sichuan Province Career Planning Competition (only graduate finalist) |
 | 2024 | 🎓 Outstanding Graduate Thesis Award (Shandong Province) & Outstanding Graduate |
-| 2024 | 🥈 National 2nd Prize, FLTRP English Debate; East China Champion & Best Debater |
-| 2023–2024 | 🥇 National Champion (WIV Debate), National Runner-up (NEED Olympics), multiple Best Debater awards |
-| 2024 | 📄 Published first research paper |
 | 2023 | 🎓 **Ranked 1st** in pre-admission assessment for direct PhD program |
 
 ---
