@@ -77,7 +77,7 @@
 
 | Year | Achievement |
 |:--|:--|
-| 2025 | 🥇 National Scholarship(3/550) |
+| 2025 | 🥇 National Scholarship |
 | 2025 | 🥇 FLTRP National English Debate Champion & Best Debater |
 | 2024 | 🎤 8th Place in Sichuan Province Career Planning Competition (only graduate finalist) |
 | 2024 | 🎓 Outstanding Graduate Thesis Award (Shandong Province) & Outstanding Graduate |
