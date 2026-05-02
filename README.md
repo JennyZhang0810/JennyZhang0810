@@ -19,8 +19,8 @@
 <br>
 
 <!-- Social Proof -->
-![Red Book](https://img.shields.io/badge/小红书-1.2w%20followers-FF2442?style=flat-square&logo=xiaohongshu&logoColor=white)
-![Zhihu](https://img.shields.io/badge/知乎-685%20followers-0084FF?style=flat-square&logo=zhihu&logoColor=white)
+![Xiaohongshu](https://img.shields.io/badge/Xiaohongshu-1.2w%20followers-FF2442?style=flat-square&logo=xiaohongshu&logoColor=white)
+![Zhihu](https://img.shields.io/badge/Zhihu-685%20followers-0084FF?style=flat-square&logo=zhihu&logoColor=white)
 ![CSDN](https://img.shields.io/badge/CSDN-3.4W%20followers-DC382D?style=flat-square&logo=csdn&logoColor=white)
 ![Bilibili](https://img.shields.io/badge/Bilibili-485%20followers-00A1D6?style=flat-square&logo=bilibili&logoColor=white)
 
@@ -30,7 +30,7 @@
 
 ## 👋 About Me
 
-- 🎓 **Second-year PhD student (direct program)** at the [School of Computer Science and Engineering](https://www.scse.uestc.edu.cn/), [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/)
+- 🎓 **Master-PhD combined program, first-year PhD student** at the [School of Computer Science and Engineering](https://www.scse.uestc.edu.cn/), [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/)
 - 🧠 Member of [Center for Future Media (CFM)](https://cfm.uestc.edu.cn/index), UESTC
 - 👩‍🏫 Very fortunate to be advised by [Prof. Yang Yang](https://cfm.uestc.edu.cn/~yangyang/) and [Prof. Wang Guoqing](https://scholar.google.com.hk/citations?hl=zh-CN&user=V08v5OEAAAAJ)
 - 🔬 **Research Focus**:
@@ -54,7 +54,7 @@
 |:--|:--|:--|
 | **🆕 S²-Det: Structure-Aware Synthesis for Few-Shot Detection** | Structure-aware synthetic data generation framework that models spatial priors and density-aware composition – revealing that synthetic data only helps when *structure distribution* matches real data. <br> **NeurIPS 2026 (Under Review)** | [![GitHub](https://img.shields.io/badge/Code-S2--Det-181717?style=flat-square&logo=github)](https://github.com/JennyZhang0810/Neurips2026-s2det) <br> *arXiv link coming soon* |
 | **📦 Low-Altitude Multimodal Dataset** | A multi-modal dataset for low-altitude remote sensing, supporting object detection, multimodal learning, and urban/ecological analysis. | [![GitHub](https://img.shields.io/badge/Dataset-LowAltitude-181717?style=flat-square&logo=github)](https://github.com/JennyZhang0810/LowAltitude-Multimodal-Dataset) |
-| **📄 First Paper (2024)** | My first publication, laying the groundwork for controllable generation in remote sensing. | [Link to publication] |
+| **🌊 Underwater Image Restoration (2024)** | Hybrid framework for adaptive color correction and dehazing of underwater images. | [![Paper](https://img.shields.io/badge/Paper-Applied_Optics-1E90FF?style=flat-square&logo=googlescholar)](https://opg.optica.org/ao/abstract.cfm?uri=ao-63-10-2728) |
 | **📚 more in preparation…** | Workshop & conference papers on remote sensing generation and synthetic dataset construction. | Stay tuned! |
 
 <p align="center">
@@ -68,11 +68,12 @@
 
 | Year | Achievement |
 |:--|:--|
-| 2025 | 🥇 **National Scholarship (国家奖学金)** |
-| 2025 | 🥇 **FLTRP National English Debate Champion & Best Debater** |
+| 2025 | 🥇 National Scholarship |
+| 2025 | 🥇 FLTRP National English Debate Champion & Best Debater |
 | 2024 | 🎤 8th Place in Sichuan Province Career Planning Competition (only graduate finalist) |
 | 2024 | 🎓 Outstanding Graduate Thesis Award (Shandong Province) & Outstanding Graduate |
-| 2023 | 🎓 **Ranked 1st** in pre-admission assessment for direct PhD program |
+| 2023 | 🏅 National Bronze Award, China International College Students' Innovation and Entrepreneurship Competition (Team Leader) |
+| 2023 | 🎓 Ranked 1st in pre-admission assessment for direct PhD program |
 
 ---
 
