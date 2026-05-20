@@ -34,33 +34,34 @@
 - 🧠 Member of [Center for Future Media (CFM)](https://cfm.uestc.edu.cn/index), UESTC
 - 👩‍🏫 Very fortunate to be advised by [Prof. Yang Yang](https://cfm.uestc.edu.cn/~yangyang/) and [Prof. Wang Guoqing](https://scholar.google.com.hk/citations?hl=zh-CN&user=V08v5OEAAAAJ)
 - 🔬 **Research Focus**:
+  - **Data-centric AI** & Automated Data Engineering
   - Remote sensing image generation & data synthesis
-  - Synthetic data for object detection (when and why it helps)
-  - Low-shot / few-shot learning and cross-domain generalization
+  - Synthetic data evaluation (understanding the *distribution gap*)
+  - Low-shot / cross-domain object detection
 - 📢 **Beyond Research**: Learning blogger (30K+ followers), host of 30+ reading clubs, and featured as the only female candidate in UESTC's "Holistic Education" youth representative series.
 - ⚡ **Interests**: Piano (Grade 10), English debating (national champion), traveling, and calligraphy – I believe that art and logic are not parallel lines, but intertwined dimensions of thinking.
 
 ---
 
-## 🔬 Research Highlights
+## 🔬 Research & Projects
 
 <div align="center">
   <i>“Data is not just fuel — it defines the decision boundary.”</i><br>
-  <sub>My work treats synthesis as a scientific tool to understand model behavior, not just visual improvement.</sub>
+  <sub>I focus on the full lifecycle of data: from <b>synthesis</b> (how to create) to <b>labeling</b> (how to refine) and <b>benchmarking</b> (how to evaluate).</sub>
 </div>
 
 <br>
 
-| 📌 **Project / Paper** | **Description** | **Links** |
+| 📌 **Project / Tool** | **Description** | **Links** |
 |:--|:--|:--|
-| **🆕 S²-Det: Structure-Aware Synthesis for Few-Shot Detection** | Structure-aware synthetic data generation framework that models spatial priors and density-aware composition – revealing that synthetic data only helps when *structure distribution* matches real data. <br> **NeurIPS 2026 (Under Review)** | [![GitHub](https://img.shields.io/badge/Code-S2--Det-181717?style=flat-square&logo=github)](https://github.com/JennyZhang0810/Neurips2026-s2det) <br> *arXiv link coming soon* |
-| **📦 Low-Altitude Multimodal Dataset** | A multi-modal dataset for low-altitude remote sensing, supporting object detection, multimodal learning, and urban/ecological analysis. | [![GitHub](https://img.shields.io/badge/Dataset-LowAltitude-181717?style=flat-square&logo=github)](https://github.com/JennyZhang0810/LowAltitude-Multimodal-Dataset) |
-| **🌊 Underwater Image Restoration (2024)** | Hybrid framework for adaptive color correction and dehazing of underwater images. | [![Paper](https://img.shields.io/badge/Paper-Applied_Optics-1E90FF?style=flat-square&logo=googlescholar)](https://opg.optica.org/ao/abstract.cfm?uri=ao-63-10-2728) |
-| **📚 more in preparation…** | Workshop & conference papers on remote sensing generation and synthetic dataset construction. | Stay tuned! |
+| **🔥 UAIV-Labeler** | **Data-centric AI Platform.** A specialized labeling workspace for UAV remote sensing. Bridges pre-trained models (SAM, YOLO) with human review. Features metadata-first indexing and multi-task (Detection/Segmentation/QA) integration. | [![GitHub](https://img.shields.io/badge/Code-UAIV--Labeler-green?style=flat-square&logo=github)](https://github.com/JennyZhang0810/UAIV-Labeler) |
+| **🆕 S²-Det** | **Structure-Aware Synthesis.** Models spatial priors to generate high-fidelity synthetic data for few-shot tasks. Proven that synthetic gain depends on structural distribution matching. <br> **NeurIPS 2026 (Under Review)** | [![GitHub](https://img.shields.io/badge/Code-S2--Det-181717?style=flat-square&logo=github)](https://github.com/JennyZhang0810/Neurips2026-s2det) |
+| **📦 UAIV Dataset** | **Low-Altitude Multimodal Dataset.** Large-scale foundation dataset for urban/ecological analysis, featuring diverse metadata (altitude/GPS/weather). | [![GitHub](https://img.shields.io/badge/Dataset-UAIV-181717?style=flat-square&logo=github)](https://github.com/JennyZhang0810/LowAltitude-Multimodal-Dataset) |
+| **🌊 Restoration** | **Underwater Image Restoration.** Hybrid framework for adaptive color correction and dehazing. | [![Paper](https://img.shields.io/badge/Paper-Applied_Optics-1E90FF?style=flat-square&logo=googlescholar)](https://opg.optica.org/ao/abstract.cfm?uri=ao-63-10-2728) |
 
 <p align="center">
-  <img src="https://via.placeholder.com/800x250?text=S2-Det+Synthetic+Data+Pipeline" width="48%">
-  <img src="https://via.placeholder.com/800x250?text=Low-Altitude+Dataset+Preview" width="48%">
+  <img src="https://raw.githubusercontent.com/JennyZhang0810/UAIV-Labeler/main/assets/sample_preview.gif" width="48%" alt="UAIV-Labeler Preview">
+  <img src="https://via.placeholder.com/800x450?text=S2-Det+Architecture" width="48%" alt="S2-Det Architecture">
 </p>
 
 ---
