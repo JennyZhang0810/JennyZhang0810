@@ -1,114 +1,121 @@
-<!-- Header Banner -->
 <div align="center">
-  <h1>✨ Jenny Zhang (Jie Ning Zhang) ✨</h1>
-  <p>
-    <b>PhD Student @ UESTC &nbsp;|&nbsp; Computer Vision &nbsp;|&nbsp; Remote Sensing Generation</b><br>
-    <i>Structure-aware Synthesis · Data-centric AI · Low-shot Detection</i>
-  </p>
-</div>
 
----
+# Jenny Zhang / Zhang Jiening
 
-<div align="center">
+**PhD Student @ UESTC · Computer Vision · Remote Sensing · Data-centric AI**
+
+Structure-aware Synthesis · Low-altitude UAV Datasets · Low-shot Detection · Benchmark Construction
 
 [![Email](https://img.shields.io/badge/Email-202421080308@std.uestc.edu.cn-333?style=flat-square&logo=gmail&logoColor=white)](mailto:202421080308@std.uestc.edu.cn)
 [![GitHub](https://img.shields.io/badge/GitHub-JennyZhang0810-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JennyZhang0810)
-[![Google Scholar](https://img.shields.io/badge/Scholar-Jenny_Zhang-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com.hk/citations?user=ONaB5qUAAAAJ)
-[![CSDN](https://img.shields.io/badge/CSDN-Jenny_DC382D?style=flat-square&logo=csdn&logoColor=white)](https://blog.csdn.net/qq_53826699)
-
-<br>
-
-<!-- Social Proof -->
-![Xiaohongshu](https://img.shields.io/badge/Xiaohongshu-1.2w%20followers-FF2442?style=flat-square&logo=xiaohongshu&logoColor=white)
-![Zhihu](https://img.shields.io/badge/Zhihu-685%20followers-0084FF?style=flat-square&logo=zhihu&logoColor=white)
-![CSDN](https://img.shields.io/badge/CSDN-3.4W%20followers-DC382D?style=flat-square&logo=csdn&logoColor=white)
-![Bilibili](https://img.shields.io/badge/Bilibili-485%20followers-00A1D6?style=flat-square&logo=bilibili&logoColor=white)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Jenny%20Zhang-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com.hk/citations?user=ONaB5qUAAAAJ)
+[![CSDN](https://img.shields.io/badge/CSDN-Jenny-DC382D?style=flat-square&logo=csdn&logoColor=white)](https://blog.csdn.net/qq_53826699)
 
 </div>
 
 ---
 
-## 👋 About Me
+## About
 
-- 🎓 **Master-PhD combined program, first-year PhD student** at the [School of Computer Science and Engineering](https://www.scse.uestc.edu.cn/), [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/)
-- 🧠 Member of [Center for Future Media (CFM)](https://cfm.uestc.edu.cn/index), UESTC
-- 👩‍🏫 Very fortunate to be advised by [Prof. Yang Yang](https://cfm.uestc.edu.cn/~yangyang/) and [Prof. Wang Guoqing](https://scholar.google.com.hk/citations?hl=zh-CN&user=V08v5OEAAAAJ)
-- 🔬 **Research Focus**:
-  - **Data-centric AI** & Automated Data Engineering
-  - Remote sensing image generation & data synthesis
-  - Synthetic data evaluation (understanding the *distribution gap*)
-  - Low-shot / cross-domain object detection
-- 📢 **Beyond Research**: Learning blogger (30K+ followers), host of 30+ reading clubs, and featured as the only female candidate in UESTC's "Holistic Education" youth representative series.
-- ⚡ **Interests**: Piano (Grade 10), English debating (national champion), traveling, and calligraphy – I believe that art and logic are not parallel lines, but intertwined dimensions of thinking.
+I am a Master-PhD combined program student at the [School of Computer Science and Engineering](https://www.scse.uestc.edu.cn/), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/), and a member of [Center for Future Media](https://cfm.uestc.edu.cn/index), UESTC.
 
+My research focuses on **data-centric computer vision**, especially how data is generated, labeled, evaluated, and reused for remote sensing and low-shot perception. I am currently working on:
 
----
+- **Low-altitude UAV remote-sensing datasets** with rich Metadata and multi-task annotations.
+- **Structure-aware synthetic data generation** for few-shot and cross-domain object detection.
+- **Benchmark construction** for urban foundation models, ecological foundation models, and image restoration.
+- **Semi-automatic labeling systems** that combine model pre-annotation with human review.
 
-## 🚀 Recent News
-- 🔥 [2026.05] Released **[UAIV-Labeler](https://github.com/JennyZhang0810/UAIV-Labeler)**, a lightweight semi-automatic labeling platform for UAV RS data. 
-- 📑 [2026.05] **S²-Det** (Structure-Aware Synthesis for Few-Shot Detection) is under review at **NeurIPS 2026**.
-- 🏆 [2025.12] Honored with the **National Scholarship** (Top 1%).
-- 🎤 [2025.05] Became the **National English Debate Champion** (FLTRP Cup).
+Advised by [Prof. Yang Yang](https://cfm.uestc.edu.cn/~yangyang/) and [Prof. Wang Guoqing](https://scholar.google.com.hk/citations?hl=zh-CN&user=V08v5OEAAAAJ).
 
 ---
 
+## Recent News
 
-## 🔬 Research & Projects
+- 🔥 **[2026.05] Released [UAIV-Labeler](https://github.com/JennyZhang0810/UAIV-Labeler)**, an open-source semi-automatic labeling platform for low-altitude UAV remote-sensing datasets.
+- 🔥 **[2026.05] Released the [UAIV Low-Altitude Multimodal Dataset](https://jennyzhang0810.github.io/LowAltitude-Multimodal-Dataset/)**, with code on [GitHub](https://github.com/JennyZhang0810/LowAltitude-Multimodal-Dataset/tree/main) and data hosted on [ScienceDB](https://www.scidb.cn/detail?dataSetId=203705443be44f7882bb9ddfd7d401da).
+- 📑 **[2026.05] S²-Det**: Structure-Aware Synthesis for Few-Shot Detection is under review at **NeurIPS 2026**.
+- 🏆 **[2025.12] National Scholarship**.
+- 🎤 **[2025.05] FLTRP Cup National English Debate Champion**.
 
-<div align="center">
-  <i>“Data is not just fuel — it defines the decision boundary.”</i><br>
-  <sub>I focus on the full lifecycle of data: from <b>synthesis</b> (how to create) to <b>labeling</b> (how to refine) and <b>benchmarking</b> (how to evaluate).</sub>
-</div>
+---
 
-<br>
+## Featured Work
 
-| 📌 **Project / Tool** | **Description** | **Links** |
+| Project | Focus | Links |
 |:--|:--|:--|
-| **🔥 UAIV-Labeler** | **Data-centric AI Platform.** A specialized labeling workspace for UAV remote sensing. Bridges pre-trained models (SAM, YOLO) with human review. Features metadata-first indexing and multi-task (Detection/Segmentation/QA) integration. | [![GitHub](https://img.shields.io/badge/Code-UAIV--Labeler-green?style=flat-square&logo=github)](https://github.com/JennyZhang0810/UAIV-Labeler) |
-| **🆕 S²-Det** | **Structure-Aware Synthesis.** Models spatial priors to generate high-fidelity synthetic data for few-shot tasks. Proven that synthetic gain depends on structural distribution matching. <br> **NeurIPS 2026 (Under Review)** | [![GitHub](https://img.shields.io/badge/Code-S2--Det-181717?style=flat-square&logo=github)](https://github.com/JennyZhang0810/Neurips2026-s2det) |
-| **📦 UAIV Dataset** | **Low-Altitude Multimodal Dataset.** Large-scale foundation dataset for urban/ecological analysis, featuring diverse metadata (altitude/GPS/weather). | [![GitHub](https://img.shields.io/badge/Dataset-UAIV-181717?style=flat-square&logo=github)](https://github.com/JennyZhang0810/LowAltitude-Multimodal-Dataset) |
-| **🌊 Restoration** | **Underwater Image Restoration.** Hybrid framework for adaptive color correction and dehazing. | [![Paper](https://img.shields.io/badge/Paper-Applied_Optics-1E90FF?style=flat-square&logo=googlescholar)](https://opg.optica.org/ao/abstract.cfm?uri=ao-63-10-2728) |
+| **UAIV-Labeler** | Open-source labeling platform for low-altitude UAV remote sensing. Supports Metadata-first indexing, model pre-annotation, human review, QA review, and Benchmark export. | [Code](https://github.com/JennyZhang0810/UAIV-Labeler) · [Live Demo](http://121.48.163.156:7860) |
+| **UAIV Dataset** | Low-altitude multimodal dataset for urban and ecological understanding, image restoration, and benchmark construction. | [Project](https://jennyzhang0810.github.io/LowAltitude-Multimodal-Dataset/) · [GitHub](https://github.com/JennyZhang0810/LowAltitude-Multimodal-Dataset/tree/main) · [ScienceDB](https://www.scidb.cn/detail?dataSetId=203705443be44f7882bb9ddfd7d401da) |
+| **S²-Det** | Structure-aware synthetic data generation for few-shot object detection. Studies how spatial priors and distribution matching affect synthetic data utility. | [Code](https://github.com/JennyZhang0810/Neurips2026-s2det) |
+| **Underwater Image Restoration** | Adaptive color correction and dehazing for underwater image restoration. | [Paper](https://opg.optica.org/ao/abstract.cfm?uri=ao-63-10-2728) |
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JennyZhang0810/UAIV-Labeler/main/assets/sample_preview.gif" width="48%" alt="UAIV-Labeler Preview">
-  <img src="https://via.placeholder.com/800x450?text=S2-Det+Architecture" width="48%" alt="S2-Det Architecture">
+  <img src="https://raw.githubusercontent.com/JennyZhang0810/UAIV-Labeler/main/assets/sample_preview.gif" width="70%" alt="UAIV-Labeler Preview">
 </p>
 
 ---
 
-## 📰 Media & Community
+## Research Direction
 
-- 🎙️ **"Holistic Education" Youth Representative**, UESTC – [Full interview](https://mp.weixin.qq.com/s/u7JlelEkxGUc0SlxUXVZPQ)
-- 💡 **Learning blogger** across Xiaohongshu, Zhihu, and CSDN (30K+ followers) – sharing study strategies, PhD life, and personal growth.
-- 📖 Organized and hosted **30+ offline reading clubs** and logged **40+ hours** of student talk sessions.
+> Data is not just fuel. It defines what a model can see, learn, and generalize.
+
+My current work is organized around a full data lifecycle:
+
+```text
+Data synthesis -> Data labeling -> Metadata management -> Benchmark evaluation -> Model improvement
+```
+
+Key questions I care about:
+
+- How can synthetic data be made structurally consistent with real remote-sensing scenes?
+- How should low-altitude UAV datasets be organized for multimodal, multi-task learning?
+- How can labeling platforms reduce annotation cost while keeping data production auditable?
+- How can we evaluate whether generated or labeled data truly improves downstream perception?
 
 ---
 
-## 🏆 Selected Achievements & Milestones
+## Selected Achievements
 
 | Year | Achievement |
 |:--|:--|
-| 2025 | 🥇 National Scholarship |
-| 2025 | 🥇 FLTRP National English Debate Champion & Best Debater |
-| 2024 | 🎤 8th Place in Sichuan Province Career Planning Competition (only graduate finalist) |
-| 2024 | 🎓 Outstanding Graduate Thesis Award (Shandong Province) & Outstanding Graduate |
-| 2023 | 🏅 National Bronze Award, China International College Students' Innovation and Entrepreneurship Competition (Team Leader) |
-| 2023 | 🎓 Ranked 1st in pre-admission assessment for direct PhD program |
+| 2025 | National Scholarship |
+| 2025 | FLTRP Cup National English Debate Champion & Best Debater |
+| 2024 | 8th Place in Sichuan Province Career Planning Competition, only graduate finalist |
+| 2024 | Outstanding Graduate Thesis Award, Shandong Province |
+| 2023 | National Bronze Award, China International College Students' Innovation and Entrepreneurship Competition, Team Leader |
+| 2023 | Ranked 1st in pre-admission assessment for direct PhD program |
 
 ---
 
-## 🤝 Collaboration
+## Community
 
-I’m always open to collaborating on:
-- Remote sensing image generation
-- Synthetic data evaluation and benchmarking
-- Data-centric AI for computer vision
+Beyond research, I share learning methods, PhD life, and personal growth content across Chinese platforms.
 
-📮 Reach me at: [202421080308@std.uestc.edu.cn](mailto:202421080308@std.uestc.edu.cn) (official) / 870076398@qq.com (personal)
+- Learning blogger with 30K+ followers across Xiaohongshu, Zhihu, and CSDN.
+- Host of 30+ offline reading clubs and 40+ hours of student talk sessions.
+- Featured as the only female candidate in UESTC's "Holistic Education" youth representative series: [interview](https://mp.weixin.qq.com/s/u7JlelEkxGUc0SlxUXVZPQ).
+- Interests: piano, English debating, traveling, and calligraphy.
 
 ---
 
-## 📈 GitHub Stats
+## Collaboration
+
+I am open to collaborations on:
+
+- Remote-sensing image generation and synthetic data evaluation.
+- Low-altitude UAV dataset construction and annotation systems.
+- Data-centric AI for object detection, segmentation, restoration, and benchmark design.
+- Customized annotation workflows for UAV/remote-sensing tasks.
+
+Contact:
+
+- Official: [202421080308@std.uestc.edu.cn](mailto:202421080308@std.uestc.edu.cn)
+- Personal: 870076398@qq.com
+
+---
+
+<details>
+<summary><b>GitHub Stats</b></summary>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JennyZhang0810&theme=default" />
@@ -120,8 +127,10 @@ I’m always open to collaborating on:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JennyZhang0810&theme=github-light" />
 </div>
 
+</details>
+
 ---
 
 <p align="center">
-  <sub>⭐ If you find my work interesting, welcome to follow, star, or collaborate!</sub>
+  <sub>If you find my work interesting, welcome to follow, star, or collaborate.</sub>
 </p>
