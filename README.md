@@ -1,6 +1,6 @@
 <div align="center">
 
-# Zhang Jiening / Jenny
+# Jenny Zhang / Zhang Jiening
 
 **PhD Student @ UESTC · Computer Vision · Remote Sensing · Data-centric AI**
 
@@ -56,6 +56,12 @@ Current research interests:
 Advised by [Prof. Yang Yang](https://cfm.uestc.edu.cn/~yangyang/) and [Prof. Wang Guoqing](https://scholar.google.com.hk/citations?hl=zh-CN&user=V08v5OEAAAAJ).
 
 Political affiliation: **Member of the Communist Party of China**.
+
+---
+
+## Research Keywords
+
+`Data-centric AI` · `Remote Sensing Generation` · `Low-altitude UAV Dataset` · `Synthetic Data` · `Few-shot Detection` · `Cross-domain Detection` · `Metadata-first Labeling` · `Benchmark Construction` · `Image Restoration`
 
 ---
 
@@ -122,6 +128,11 @@ Key questions I care about:
 
 ## Competitions
 
+<details>
+<summary><b>Selected competition awards</b></summary>
+
+<br>
+
 | Competition | Award / Rank |
 |:--|:--|
 | China International College Students' "Internet+" Innovation and Entrepreneurship Competition | National Bronze Award, ranked 1st |
@@ -131,6 +142,8 @@ Key questions I care about:
 | 27th FLTRP Cup National English Debate Competition | National Gold Award & National Best Debater |
 | Chinese Collegiate Computing Competition | National Third Prize |
 | National University Student Intelligent Car Race | National Second Prize |
+
+</details>
 
 ---
 
