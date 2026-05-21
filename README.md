@@ -43,26 +43,45 @@
 
 ---
 
-## 🔬 Research & Projects
+## 🚀 Recent News
+- 🔥 [2026.05] Released **[UAIV-Labeler](https://github.com/JennyZhang0810/UAIV-Labeler)**, a lightweight semi-automatic labeling platform for UAV RS data. 
+- 📑 [2026.05] **S²-Det** (Structure-Aware Synthesis for Few-Shot Detection) is under review at **NeurIPS 2026**.
+- 🏆 [2025.12] Honored with the **National Scholarship** (Top 1%).
+- 🎤 [2025.05] Became the **National English Debate Champion** (FLTRP Cup).
 
+---
+
+## 🔬 Research & Projects
 <div align="center">
-  <i>“Data is not just fuel — it defines the decision boundary.”</i><br>
-  <sub>I focus on the full lifecycle of data: from <b>synthesis</b> (how to create) to <b>labeling</b> (how to refine) and <b>benchmarking</b> (how to evaluate).</sub>
+  <p align="center">
+    <i>“Data is not just fuel — it defines the decision boundary.”</i><br>
+    <b>I focus on the full lifecycle of data: Synthesis → Labeling → Engineering → Benchmarking</b>
+  </p>
 </div>
 
 <br>
 
-| 📌 **Project / Tool** | **Description** | **Links** |
+| 📌 Project / Tool | Description | Tech Stack |
 |:--|:--|:--|
-| **🔥 UAIV-Labeler** | **Data-centric AI Platform.** A specialized labeling workspace for UAV remote sensing. Bridges pre-trained models (SAM, YOLO) with human review. Features metadata-first indexing and multi-task (Detection/Segmentation/QA) integration. | [![GitHub](https://img.shields.io/badge/Code-UAIV--Labeler-green?style=flat-square&logo=github)](https://github.com/JennyZhang0810/UAIV-Labeler) |
-| **🆕 S²-Det** | **Structure-Aware Synthesis.** Models spatial priors to generate high-fidelity synthetic data for few-shot tasks. Proven that synthetic gain depends on structural distribution matching. <br> **NeurIPS 2026 (Under Review)** | [![GitHub](https://img.shields.io/badge/Code-S2--Det-181717?style=flat-square&logo=github)](https://github.com/JennyZhang0810/Neurips2026-s2det) |
-| **📦 UAIV Dataset** | **Low-Altitude Multimodal Dataset.** Large-scale foundation dataset for urban/ecological analysis, featuring diverse metadata (altitude/GPS/weather). | [![GitHub](https://img.shields.io/badge/Dataset-UAIV-181717?style=flat-square&logo=github)](https://github.com/JennyZhang0810/LowAltitude-Multimodal-Dataset) |
-| **🌊 Restoration** | **Underwater Image Restoration.** Hybrid framework for adaptive color correction and dehazing. | [![Paper](https://img.shields.io/badge/Paper-Applied_Optics-1E90FF?style=flat-square&logo=googlescholar)](https://opg.optica.org/ao/abstract.cfm?uri=ao-63-10-2728) |
+| **🔥 [UAIV-Labeler](https://github.com/JennyZhang0810/UAIV-Labeler)** | **Data-centric AI Platform.** A specialized labeling workspace for UAV remote sensing. Bridges pre-trained models (SAM, YOLO) with human review. Features metadata-first indexing and multi-task (Detection/Segmentation/QA) integration. | `Flask` `Docker` `PyTorch` `OpenCV` |
+| **🆕 [S²-Det](https://github.com/JennyZhang0810/Neurips2026-s2det)** | **Structure-Aware Synthesis.** Models spatial priors to generate high-fidelity synthetic data for few-shot tasks. Proven that synthetic gain depends on structural distribution matching. | `Diffusion` `NMS` `Python` |
+| **📦 [UAIV Dataset](https://github.com/JennyZhang0810/LowAltitude-Multimodal-Dataset)** | **Low-Altitude Multimodal Dataset.** Large-scale foundation dataset for urban/ecological analysis, featuring diverse metadata (altitude/GPS/weather). | `GIS` `Metadata` `Dataset` |
+| **🌊 Restoration** | **Underwater Image Restoration.** Hybrid framework for adaptive color correction and dehazing. | `Applied Optics` `Matlab/Python` |
+
+<br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JennyZhang0810/UAIV-Labeler/main/assets/sample_preview.gif" width="48%" alt="UAIV-Labeler Preview">
-  <img src="https://via.placeholder.com/800x450?text=S2-Det+Architecture" width="48%" alt="S2-Det Architecture">
+  <img src="https://raw.githubusercontent.com/JennyZhang0810/UAIV-Labeler/main/assets/sample_preview.gif" width="48%" alt="UAIV-Labeler Preview" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="https://via.placeholder.com/800x450?text=S2-Det+Architecture" width="48%" alt="S2-Det Architecture" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </p>
+
+---
+
+## 🛠️ Tech Stack & Skills
+- **Frameworks**: PyTorch, Flask, Docker, OpenCV, GDAL/GIS
+- **AI/ML**: Generative Models (Diffusion, VAE), Object Detection (YOLO, DETR), SAM, Active Learning
+- **Data Engineering**: Semi-automatic Labeling Pipeline, Metadata Management, SQL/ElasticSearch
+- **Soft Skills**: Public Speaking, English Debating, Content Creation (30k+ followers)
 
 ---
 
