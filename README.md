@@ -1,230 +1,195 @@
-<div align="center">
+# UAIV-Foundry
 
-# Jenny Zhang / Zhang Jiening
+UAIV-Foundry is a low-altitude multimodal data production system for building, auditing, releasing, and benchmarking UAIV-style datasets.
 
-**PhD Student @ UESTC · Computer Vision · Remote Sensing · Data-centric AI**
-
-Low-altitude UAV Datasets · Data Production Systems · Data-centric AI · Structure-aware Synthesis · Low-shot Detection · Benchmark Construction
-
-[![Email](https://img.shields.io/badge/Email-202421080308@std.uestc.edu.cn-333?style=flat-square&logo=gmail&logoColor=white)](mailto:202421080308@std.uestc.edu.cn)
-[![GitHub](https://img.shields.io/badge/GitHub-JennyZhang0810-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JennyZhang0810)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Jenny%20Zhang-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com.hk/citations?user=ONaB5qUAAAAJ)
-[![CSDN](https://img.shields.io/badge/CSDN-Jenny-DC382D?style=flat-square&logo=csdn&logoColor=white)](https://blog.csdn.net/qq_53826699)
-
-**UAIV Low-Altitude Data Ecosystem**  
-[![Dataset Project](https://img.shields.io/badge/Dataset-Project%20Page-2f5f8f?style=flat-square)](https://jennyzhang0810.github.io/LowAltitude-Multimodal-Dataset/)
-[![Dataset GitHub](https://img.shields.io/badge/Dataset-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JennyZhang0810/LowAltitude-Multimodal-Dataset)
-[![ScienceDB](https://img.shields.io/badge/Dataset-ScienceDB-4b6f44?style=flat-square)](https://www.scidb.cn/detail?dataSetId=203705443be44f7882bb9ddfd7d401da)
-[![Labeler](https://img.shields.io/badge/Labeler-Project%20Page-167c80?style=flat-square)](https://jennyzhang0810.github.io/UAIV-Labeler/)
-[![Foundry](https://img.shields.io/badge/Foundry-Project%20Page-b87918?style=flat-square)](https://jennyzhang0810.github.io/UAIV-Foundry/)
-
-</div>
-
----
-
-## Featured Research Assets
-
-| Work | Type | Why It Matters | Links |
-|:--|:--|:--|:--|
-| **UAIV Low-Altitude Multimodal Dataset** | Dataset / Benchmark | The data product of the UAIV ecosystem: low-altitude multimodal UAV remote-sensing data for urban/ecological understanding, restoration, and benchmark construction. | [Project](https://jennyzhang0810.github.io/LowAltitude-Multimodal-Dataset/) · [GitHub](https://github.com/JennyZhang0810/LowAltitude-Multimodal-Dataset) · [ScienceDB](https://www.scidb.cn/detail?dataSetId=203705443be44f7882bb9ddfd7d401da) |
-| **UAIV-Labeler** | Annotation Platform | The human annotation workbench for UAIV data production. Supports metadata-first indexing, model pre-annotation, manual labeling, review, QA-oriented export, and benchmark conversion. | [Project](https://jennyzhang0810.github.io/UAIV-Labeler/) · [GitHub](https://github.com/JennyZhang0810/UAIV-Labeler) · [Demo](http://8.137.184.86/) |
-| **UAIV-Foundry** | Data Production OS | The infrastructure layer around dataset construction: resource curation, manifest planning, Golden Dataset calibration, annotation QA, release readiness, benchmark protocols, and failure-to-data iteration. | [Project](https://jennyzhang0810.github.io/UAIV-Foundry/) · [GitHub](https://github.com/JennyZhang0810/UAIV-Foundry) |
-| **S²-Det** | Paper / Method | Structure-aware synthetic data generation for few-shot object detection. Studies how spatial priors and distribution matching affect synthetic data utility. | [Code](https://github.com/JennyZhang0810/Neurips2026-s2det) |
-| **Underwater Image Restoration** | Paper | Hybrid underwater image restoration framework for adaptive color correction and dehazing. | [Paper](https://opg.optica.org/ao/abstract.cfm?uri=ao-63-10-2728) |
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/JennyZhang0810/UAIV-Labeler/main/assets/sample_preview.gif" width="70%" alt="UAIV-Labeler Preview">
-</p>
-
----
-
-## Recent News
-
-- 🧭 **[2026.06] Prepared the initial [UAIV-Foundry](https://jennyzhang0810.github.io/UAIV-Foundry/) project page**, a data production operating system for low-altitude multimodal datasets. The project is currently in pre-release engineering status.
-- 🔥 **[2026.05] Released [UAIV-Labeler](https://jennyzhang0810.github.io/UAIV-Labeler/)**, an open-source semi-automatic labeling platform for low-altitude UAV remote-sensing datasets. Code is available on [GitHub](https://github.com/JennyZhang0810/UAIV-Labeler), with a live demo at [8.137.184.86](http://8.137.184.86/).
-- 🔥 **[2026.05] Released the [UAIV Low-Altitude Multimodal Dataset](https://jennyzhang0810.github.io/LowAltitude-Multimodal-Dataset/)**, with code on [GitHub](https://github.com/JennyZhang0810/LowAltitude-Multimodal-Dataset) and data hosted on [ScienceDB](https://www.scidb.cn/detail?dataSetId=203705443be44f7882bb9ddfd7d401da).
-- 📑 **[2026.05] [S²-Det](https://github.com/JennyZhang0810/Neurips2026-s2det)**, Structure-Aware Synthesis for Few-Shot Detection, is under review at **NeurIPS 2026**.
-- 📄 **[2024] Published underwater image restoration work in Applied Optics**.
-- 🏆 **[2025] National Scholarship and FLTRP Cup National English Debate Champion & Best Debater**.
-
----
-
-## About
-
-I am a Master-PhD combined program student at the [School of Computer Science and Engineering](https://www.scse.uestc.edu.cn/), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/), and a member of [Center for Future Media](https://cfm.uestc.edu.cn/index), UESTC.
-
-My research focuses on **data-centric computer vision**, especially how data is generated, labeled, evaluated, and reused for remote sensing and low-shot perception.
-
-Current research interests:
-
-- **Low-altitude UAV remote-sensing datasets** with rich metadata and multi-task annotations.
-- **Data production operating systems** for dataset planning, annotation QA, release readiness, and benchmark-driven iteration.
-- **Structure-aware synthetic data generation** for few-shot and cross-domain object detection.
-- **Benchmark construction** for urban foundation models, ecological foundation models, and image restoration.
-- **Semi-automatic labeling systems** combining model pre-annotation and human review.
-
-Advised by [Prof. Yang Yang](https://cfm.uestc.edu.cn/~yangyang/) and [Prof. Wang Guoqing](https://scholar.google.com.hk/citations?hl=zh-CN&user=V08v5OEAAAAJ).
-
-Political affiliation: **Member of the Communist Party of China**.
-
----
-
-## Research Keywords
-
-`Data-centric AI` · `Data Production OS` · `Remote Sensing Generation` · `Low-altitude UAV Dataset` · `Synthetic Data` · `Few-shot Detection` · `Cross-domain Detection` · `Metadata-first Labeling` · `Benchmark Construction` · `Image Restoration`
-
----
-
-## Research Direction
-
-> Data is not just fuel. It defines what a model can see, learn, and generalize.
-
-My work is organized around a full data lifecycle:
+It is not only an awesome list, and it is not a replacement for annotation tools. It combines:
 
 ```text
-Data synthesis -> Data labeling -> Metadata management -> QA and release -> Benchmark evaluation -> Model improvement
+Knowledge Layer
+  -> curated resources for datasets, annotation platforms, data quality, synthetic data, and remote sensing VLMs
+
+Data Factory Layer
+  -> manifests, batch assignment, Golden Dataset, Labeler import records, annotation export intake, QA, dashboard
+
+Release & Benchmark Layer
+  -> dataset cards, release readiness checks, public-package checks, benchmark request protocols, failure-to-data iteration
 ```
 
-Key questions I care about:
+In the UAIV ecosystem:
 
-- How can synthetic data be made structurally consistent with real remote-sensing scenes?
-- How should low-altitude UAV datasets be organized for multimodal, multi-task learning?
-- How can labeling platforms reduce annotation cost while keeping data production auditable?
-- How can dataset production pipelines make annotation quality, release readiness, and benchmark feedback traceable?
-- How can we evaluate whether generated or labeled data truly improves downstream perception?
+- `UAIV-Real` is the dataset/product.
+- `UAIV-Labeler` is the human annotation platform.
+- `UAIV-Foundry` is the production line, QA system, dashboard, release checker, resource index, and benchmark protocol around the dataset.
 
----
+## Why This Exists
 
-## UAIV Low-Altitude Data Ecosystem
+Low-altitude data construction is not just image collection or manual annotation. A publishable dataset also needs:
 
-My current low-altitude data work is organized as a three-part ecosystem. The goal is not only to publish a dataset or an annotation tool, but to make the whole data lifecycle reproducible: data collection, human annotation, quality control, release, benchmark evaluation, and the next data iteration.
+- clear dataset scope and exclusion decisions;
+- reproducible manifests and import records;
+- task and worker assignment;
+- Golden Dataset calibration;
+- annotation export preflight;
+- QA gates and rework records;
+- dataset cards generated from real statistics;
+- release blockers and license/public-link tracking;
+- benchmark requests aligned with the released version.
 
-| Layer | Project | Role | Entry Points |
-|:--|:--|:--|:--|
-| Dataset Product | **UAIV-Real / UAIV Dataset** | Public-facing low-altitude multimodal UAV dataset for urban/ecological perception, restoration, and benchmark construction. | [Project](https://jennyzhang0810.github.io/LowAltitude-Multimodal-Dataset/) · [GitHub](https://github.com/JennyZhang0810/LowAltitude-Multimodal-Dataset) · [ScienceDB](https://www.scidb.cn/detail?dataSetId=203705443be44f7882bb9ddfd7d401da) |
-| Human Annotation | **UAIV-Labeler** | Human-in-the-loop annotation workbench for metadata-aware indexing, model pre-annotation, scene/object/OCR/event/environment labeling, review, and export. | [Project](https://jennyzhang0810.github.io/UAIV-Labeler/) · [GitHub](https://github.com/JennyZhang0810/UAIV-Labeler) · [Live Demo](http://8.137.184.86/) |
-| Data Infrastructure | **UAIV-Foundry** | Data production OS that organizes resources, generates manifests, calibrates Golden samples, checks annotation quality, prepares releases, runs benchmark protocols, and turns failures into the next data iteration. | [Project](https://jennyzhang0810.github.io/UAIV-Foundry/) · [GitHub](https://github.com/JennyZhang0810/UAIV-Foundry) |
+UAIV-Foundry makes these steps explicit, auditable, and reusable.
 
-The goal is to move beyond releasing isolated datasets or tools, and instead build a reproducible data-centric workflow:
+## Current Status
 
-```text
-UAIV-Real is what we release.
-UAIV-Labeler is where humans annotate.
-UAIV-Foundry is how we make the process auditable, measurable, and reusable.
+Current focus: **first-public city governance data package for UAIV-Real**.
+
+| Item | Status |
+| --- | --- |
+| Cleaned first-public scope | 4,796 images / 5,019 total files |
+| Golden Dataset | 96 images generated, waiting for human annotation |
+| Labeler import records | Full package and 12 worker-group packages generated |
+| Annotation launch readiness | PASS |
+| Release package self-check | pre-annotation materials PASS; public release PENDING |
+| Public release | blocked by reviewed annotations, final QA, license decision, and public links |
+| Benchmark | dry-run request JSONL generated; real benchmark waits for reviewed annotations |
+
+Daily Chinese entry points:
+
+- `/data5/zhangjiening/Data_Construction/UAIV-Foundry/文档入口.md`
+- `/data5/zhangjiening/Data_Construction/UAIV-Foundry/近一周进度速读_20260608.md`
+- `/data5/zhangjiening/Data_Construction/UAIV-Foundry/中文文档地图.md`
+- `/data5/zhangjiening/Data_Construction/UAIV-Foundry/当前状态与下一步.md`
+
+## Repository Map
+
+| Area | Path | Purpose |
+| --- | --- | --- |
+| Knowledge layer | `awesome/` | Curated external resources for low-altitude datasets, annotation tools, synthetic data, data quality, and remote sensing VLMs |
+| Dataset cards | `datasets/` | UAIV-Real dataset cards, first-public manifest builders, and generated card drafts |
+| Annotation platforms | `platforms/` | UAIV-Labeler, CVAT, Label Studio, and annotation-platform comparison notes |
+| Data generation | `generation/` | Data augmentation and synthetic-data recipes |
+| Quality checks | `evaluation/` | Dataset and image quality check templates |
+| Production pipelines | `pipelines/` | Data production dry-runs, launch readiness checks, first-public status refresh |
+| Annotation QA | `qa/` | Export preflight, annotation QA, rework plans, quality scores, Golden QA template |
+| Dashboards | `dashboard/` | Project dashboards, profile dashboards, and trend snapshots |
+| Benchmark runner | `benchmark_runner/` | Adapter protocol, metric specs, request JSONL generation, dry-run reports |
+| Baseline benchmarks | `benchmarks/` | Reproducible baseline templates for common UAV tasks |
+| Docs and release | `docs/` | Planning notes, logs, release checks, project page, outreach materials |
+
+## Knowledge Layer
+
+The awesome layer is a maintained knowledge base, not a loose bookmark list.
+
+Seed sources currently tracked:
+
+- [HumanSignal/awesome-data-labeling](https://github.com/HumanSignal/awesome-data-labeling)
+- [wasiahmad/Awesome-LLM-Synthetic-Data](https://github.com/wasiahmad/Awesome-LLM-Synthetic-Data)
+- [qiangsun89/UAV-datasets](https://github.com/qiangsun89/UAV-datasets)
+- [satellite-image-deep-learning/datasets](https://github.com/satellite-image-deep-learning/datasets)
+- [VisDrone/Awesome-VisDrone](https://github.com/VisDrone/Awesome-VisDrone)
+
+Key files:
+
+- `awesome/README.md`
+- `awesome/资源条目整理规范.md`
+- `awesome/资源库持续更新机制.md`
+- `awesome/awesome-annotation-platforms.md`
+- `awesome/awesome-low-altitude-datasets.md`
+- `awesome/awesome-data-quality.md`
+- `awesome/awesome-synthetic-data.md`
+- `awesome/awesome-remote-vlm.md`
+
+Each high-quality resource entry should eventually include paper/code/dataset/project-page/documentation links, license/access notes, task, modality, annotation type, scale, and UAIV relevance.
+
+## First-Public City Governance Package
+
+Important files:
+
+| Purpose | Path |
+| --- | --- |
+| Full manifest | `/data5/zhangjiening/Data_Construction/UAIV-Real/manifests/first_public_city_governance/first_public_city_governance_manifest.csv` |
+| Full Labeler import records | `/data5/zhangjiening/Data_Construction/UAIV-Real/manifests/first_public_city_governance/first_public_city_governance_labeler_import_records.json` |
+| Golden import records | `/data5/zhangjiening/Data_Construction/UAIV-Real/manifests/first_public_city_governance/golden_subset_labeler_import_records.json` |
+| Worker cards | `/data5/zhangjiening/Data_Construction/UAIV-Real/manifests/first_public_city_governance/首发城市治理_标注员任务卡索引.md` |
+| Worker import packages | `/data5/zhangjiening/Data_Construction/UAIV-Real/manifests/first_public_city_governance/首发城市治理_分组导入包索引.md` |
+| Annotation launch panel | `/data5/zhangjiening/Data_Construction/UAIV-Real/manifests/first_public_city_governance/首发城市治理_标注启动作战面板.md` |
+| Export delivery spec | `/data5/zhangjiening/Data_Construction/UAIV-Real/manifests/first_public_city_governance/首发城市治理_标注导出交付规范.md` |
+| Golden QA template | `qa/Golden导出后QA执行模板.md` |
+
+## Validation Logic
+
+Foundry's value should be proven with evidence, not slogans.
+
+The validation framework tracks:
+
+- quality evidence: QA errors, warnings, affected image rate, taxonomy issues;
+- efficiency evidence: time saved in import generation, batch assignment, export preflight, rework localization;
+- reproducibility evidence: manifest/import/card/dashboard/release consistency;
+- research evidence: benchmark request coverage and failure-to-data iteration.
+
+Detailed framework:
+
+`docs/规划与说明/UAIV-Foundry价值证明与验证框架_20260609.md`
+
+## Common Commands
+
+Refresh first-public status:
+
+```bash
+python pipelines/refresh_first_public_status.py
 ```
 
-Together, these projects aim to turn low-altitude UAV data construction into a reproducible data-centric workflow rather than a one-off dataset release.
+Check annotation launch readiness:
 
----
+```bash
+python pipelines/check_annotation_launch_readiness.py
+```
 
-## Publications / Preprints
+Check release package:
 
-- **S²-Det: Structure-Aware Synthesis for Few-Shot Detection**  
-  *Under review at NeurIPS 2026.*  
-  [Code](https://github.com/JennyZhang0810/Neurips2026-s2det)
+```bash
+python docs/release/check_release_package.py
+```
 
-- **Underwater Image Restoration with Adaptive Color Correction and Dehazing**  
-  *Applied Optics, 2024.*  
-  [Paper](https://opg.optica.org/ao/abstract.cfm?uri=ao-63-10-2728)
+Check static project page:
 
----
+```bash
+python docs/site/check_site_readiness.py
+```
 
-## Intellectual Property
+Check a Labeler export package after Golden/full annotation:
 
-**Patent**
+```bash
+python qa/check_labeler_export_package.py \
+  --export-dir <EXPORT_DIR> \
+  --expected-scope golden
+```
 
-- A semantic-guided intelligent generation method for visible-light remote-sensing images.
+## Roadmap
 
-**Software Copyrights**
+- [x] Build repository structure and execution tracker.
+- [x] Create initial awesome resource lists.
+- [x] Add structured curation rules and continuous-update workflow for resources.
+- [x] Build first-public city governance manifest and Labeler import records.
+- [x] Generate Golden Dataset and 12 worker-group cards/import packages.
+- [x] Add annotation launch readiness checks.
+- [x] Add Labeler export preflight template.
+- [x] Add QA, dashboard, dataset-card, release-check, and benchmark dry-run components.
+- [ ] Run Golden Dataset annotation and QA after human export.
+- [ ] Run full annotation QA and rework closure.
+- [ ] Finalize dataset card, license, public links, and release package.
+- [ ] Run real benchmark after reviewed annotations exist.
 
-- Semantic-guided multi-degradation image restoration system V1.0.
-- Information-controllable remote-sensing object image simulation software V1.0.
-- Intelligent air-combat advantage calculation and multi-aircraft cooperative combat situation analysis software V1.0.
-- Worker operation standardization visual detection algorithm software V1.0.
+## Start Here
 
----
+- 中文入口：`文档入口.md`
+- 近一周速读：`近一周进度速读_20260608.md`
+- 中文文档地图：`中文文档地图.md`
+- 当前状态：`当前状态与下一步.md`
+- 价值证明框架：`docs/规划与说明/UAIV-Foundry价值证明与验证框架_20260609.md`
+- 接下来任务清单：`docs/规划与说明/接下来可执行任务清单_20260609.md`
+- Main logs:
+  - `docs/logs/主线A_数据平台工作日志.md`
+  - `docs/logs/主线B_Foundry工作日志.md`
 
-## Honors
+## License
 
-| Year | Honor |
-|:--|:--|
-| 2025 | National Scholarship |
-| 2025 | Outstanding Graduate Student, UESTC |
-| 2025 | First-class Academic Scholarship, UESTC |
-| 2025 | Outstanding Graduate Student Cadre, UESTC |
-| 2024 | Outstanding Graduate, Shandong Province |
-| 2024 | Outstanding Graduate Thesis, Shandong Province |
-| 2024 | Outstanding Student Cadre, Shandong Province |
-| 2023 | Ranked 1st in pre-admission assessment for direct PhD program |
-
----
-
-## Competitions
-
-<details>
-<summary><b>Selected competition awards</b></summary>
-
-<br>
-
-| Competition | Award / Rank |
-|:--|:--|
-| China International College Students' "Internet+" Innovation and Entrepreneurship Competition | National Bronze Award, ranked 1st |
-| Shandong University Student Innovation and Entrepreneurship Competition | Provincial Gold Award, highest award, ranked 1st |
-| 2025 China International College Students' Innovation Competition, Higher Education Track | Provincial Silver Award, ranked 1st |
-| 2nd Sichuan Provincial College Student Career Planning Competition, Graduate Employment Track | Provincial Bronze Award |
-| 27th FLTRP Cup National English Debate Competition | National Gold Award & National Best Debater |
-| Chinese Collegiate Computing Competition | National Third Prize |
-| National University Student Intelligent Car Race | National Second Prize |
-
-</details>
-
----
-
-## Community
-
-Beyond research, I share learning methods, PhD life, and personal growth content across Chinese platforms.
-
-- Learning blogger with 30K+ followers across Xiaohongshu, Zhihu, and CSDN.
-- Host of 30+ offline reading clubs and 40+ hours of student talk sessions.
-- Featured as the only female candidate in UESTC's "Holistic Education" youth representative series: [interview](https://mp.weixin.qq.com/s/u7JlelEkxGUc0SlxUXVZPQ).
-- Interests: piano, English debating, traveling, and calligraphy.
-
----
-
-## Collaboration
-
-I am open to collaborations on:
-
-- Remote-sensing image generation and synthetic data evaluation.
-- Low-altitude UAV dataset construction and annotation systems.
-- Data production infrastructure for annotation QA, dataset release, and benchmark iteration.
-- Data-centric AI for object detection, segmentation, restoration, and benchmark design.
-- Customized annotation workflows for UAV/remote-sensing tasks.
-
-Contact:
-
-- Official: [202421080308@std.uestc.edu.cn](mailto:202421080308@std.uestc.edu.cn)
-- Personal: 870076398@qq.com
-
----
-
-<details>
-<summary><b>GitHub Stats</b></summary>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JennyZhang0810&theme=default" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JennyZhang0810&theme=github-light" />
-</div>
-
-</details>
-
----
-
-<p align="center">
-  <sub>If you find my work interesting, welcome to follow, star, or collaborate.</sub>
-</p>
+Code and documentation in this repository are released under the MIT License unless otherwise noted. External resources keep their original licenses and terms. Dataset release terms for UAIV-Real must be confirmed before public distribution.
