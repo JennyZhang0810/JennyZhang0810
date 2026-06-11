@@ -22,6 +22,22 @@ Low-altitude UAV Datasets · Data Production Systems · Data-centric AI · Struc
 
 ---
 
+## Featured Research Assets
+
+| Work | Type | Why It Matters | Links |
+|:--|:--|:--|:--|
+| **UAIV Low-Altitude Multimodal Dataset** | Dataset / Benchmark | The data product of the UAIV ecosystem: low-altitude multimodal UAV remote-sensing data for urban/ecological understanding, restoration, and benchmark construction. | [Project](https://jennyzhang0810.github.io/LowAltitude-Multimodal-Dataset/) · [GitHub](https://github.com/JennyZhang0810/LowAltitude-Multimodal-Dataset) · [ScienceDB](https://www.scidb.cn/detail?dataSetId=203705443be44f7882bb9ddfd7d401da) |
+| **UAIV-Labeler** | Annotation Platform | The human annotation workbench for UAIV data production. Supports metadata-first indexing, model pre-annotation, manual labeling, review, QA-oriented export, and benchmark conversion. | [Project](https://jennyzhang0810.github.io/UAIV-Labeler/) · [GitHub](https://github.com/JennyZhang0810/UAIV-Labeler) · [Demo](http://8.137.184.86/) |
+| **UAIV-Foundry** | Data Production OS | The infrastructure layer around dataset construction: resource curation, manifest planning, Golden Dataset calibration, annotation QA, release readiness, benchmark protocols, and failure-to-data iteration. | [Project](https://jennyzhang0810.github.io/UAIV-Foundry/) · [GitHub](https://github.com/JennyZhang0810/UAIV-Foundry) |
+| **S²-Det** | Paper / Method | Structure-aware synthetic data generation for few-shot object detection. Studies how spatial priors and distribution matching affect synthetic data utility. | [Code](https://github.com/JennyZhang0810/Neurips2026-s2det) |
+| **Underwater Image Restoration** | Paper | Hybrid underwater image restoration framework for adaptive color correction and dehazing. | [Paper](https://opg.optica.org/ao/abstract.cfm?uri=ao-63-10-2728) |
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JennyZhang0810/UAIV-Labeler/main/assets/sample_preview.gif" width="70%" alt="UAIV-Labeler Preview">
+</p>
+
+---
+
 ## Recent News
 
 - 🧭 **[2026.06] Prepared the initial [UAIV-Foundry](https://jennyzhang0810.github.io/UAIV-Foundry/) project page**, a data production operating system for low-altitude multimodal datasets. The project is currently in pre-release engineering status.
@@ -56,7 +72,10 @@ Advised by [Prof. Yang Yang](https://cfm.uestc.edu.cn/~yangyang/) and [Prof. Wan
 > Data is not just fuel. It defines what a model can see, learn, and generalize.
 
 My work is organized around a full data lifecycle:
+
+```text
 Data synthesis -> Data labeling -> Metadata management -> QA and release -> Benchmark evaluation -> Model improvement
+```
 
 Key questions I care about:
 
@@ -72,32 +91,15 @@ Key questions I care about:
 
 ## UAIV Low-Altitude Data Ecosystem
 
-My current low-altitude data work is organized as a three-part ecosystem. The goal is not only to publish a dataset or an annotation tool, but to make the whole data lifecycle reproducible: data collection, human annotation, quality control, release, benchmark evaluation, and the next data iteration.
+My current low-altitude data work is organized as a three-part ecosystem. The goal is not only to publish a dataset or an annotation tool, but to make the whole data lifecycle reproducible.
+
+```text
 UAIV-Real is what we release.
 UAIV-Labeler is where humans annotate.
 UAIV-Foundry is how we make the process auditable, measurable, and reusable.
+```
 
-| Layer | Project | Role | Entry Points |
-|:--|:--|:--|:--|
-| Dataset Product | **UAIV-Real / UAIV Dataset** | Public-facing low-altitude multimodal UAV dataset for urban/ecological perception, restoration, and benchmark construction. | [Project](https://jennyzhang0810.github.io/LowAltitude-Multimodal-Dataset/) · [GitHub](https://github.com/JennyZhang0810/LowAltitude-Multimodal-Dataset) · [ScienceDB](https://www.scidb.cn/detail?dataSetId=203705443be44f7882bb9ddfd7d401da) |
-| Human Annotation | **UAIV-Labeler** | Human-in-the-loop annotation workbench for metadata-aware indexing, model pre-annotation, scene/object/OCR/event/environment labeling, review, and export. | [Project](https://jennyzhang0810.github.io/UAIV-Labeler/) · [GitHub](https://github.com/JennyZhang0810/UAIV-Labeler) · [Live Demo](http://8.137.184.86/) |
-| Data Infrastructure | **UAIV-Foundry** | Data production OS that organizes resources, generates manifests, calibrates Golden samples, checks annotation quality, prepares releases, runs benchmark protocols, and turns failures into the next data iteration. | [Project](https://jennyzhang0810.github.io/UAIV-Foundry/) · [GitHub](https://github.com/JennyZhang0810/UAIV-Foundry) |
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/JennyZhang0810/UAIV-Labeler/main/assets/sample_preview.gif" width="70%" alt="UAIV-Labeler Preview">
-</p>
-
----
-
-## Featured Research
-
-| Work | Type | Why It Matters | Links |
-|:--|:--|:--|:--|
-| **UAIV Low-Altitude Multimodal Dataset** | Dataset / Benchmark | The data product of the UAIV ecosystem: low-altitude multimodal UAV remote-sensing data for urban/ecological understanding, restoration, and benchmark construction. | [Project](https://jennyzhang0810.github.io/LowAltitude-Multimodal-Dataset/) · [GitHub](https://github.com/JennyZhang0810/LowAltitude-Multimodal-Dataset) · [ScienceDB](https://www.scidb.cn/detail?dataSetId=203705443be44f7882bb9ddfd7d401da) |
-| **UAIV-Labeler** | Annotation Platform | The human annotation workbench for UAIV data production. Supports metadata-first indexing, model pre-annotation, manual labeling, review, QA-oriented export, and benchmark conversion. | [Project](https://jennyzhang0810.github.io/UAIV-Labeler/) · [GitHub](https://github.com/JennyZhang0810/UAIV-Labeler) · [Demo](http://8.137.184.86/) |
-| **UAIV-Foundry** | Data Production OS | The infrastructure layer around dataset construction: resource curation, manifest planning, Golden Dataset calibration, annotation QA, release readiness, benchmark protocols, and failure-to-data iteration. | [Project](https://jennyzhang0810.github.io/UAIV-Foundry/) · [GitHub](https://github.com/JennyZhang0810/UAIV-Foundry) |
-| **S²-Det** | Paper / Method | Structure-aware synthetic data generation for few-shot object detection. Studies how spatial priors and distribution matching affect synthetic data utility. | [Code](https://github.com/JennyZhang0810/Neurips2026-s2det) |
-| **Underwater Image Restoration** | Paper | Hybrid underwater image restoration framework for adaptive color correction and dehazing. | [Paper](https://opg.optica.org/ao/abstract.cfm?uri=ao-63-10-2728) |
+Together, these projects aim to turn low-altitude UAV data construction into a reproducible data-centric workflow rather than a one-off dataset release.
 
 ---
 
