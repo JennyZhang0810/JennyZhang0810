@@ -1,6 +1,6 @@
 <div align="center">
 
-# Jenny Zhang / 张洁宁
+# Jenny Zhang / 张杰宁
 
 **PhD Student @ UESTC · Data-centric Computer Vision · Remote Sensing · Low-altitude UAV**
 
