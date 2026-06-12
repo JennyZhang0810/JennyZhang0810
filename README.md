@@ -12,12 +12,6 @@ Low-altitude UAV Datasets · Data Production Systems · Structure-aware Synthesi
 [![GitHub](https://img.shields.io/badge/GitHub-JennyZhang0810-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JennyZhang0810)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Jenny%20Zhang-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com.hk/citations?user=ONaB5qUAAAAJ)
 
-**UAIV Low-Altitude Data Ecosystem**  
-[![Dataset Project](https://img.shields.io/badge/Dataset-Project%20Page-2f5f8f?style=flat-square)](https://jennyzhang0810.github.io/LowAltitude-Multimodal-Dataset/)
-[![Dataset GitHub](https://img.shields.io/badge/Dataset-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JennyZhang0810/LowAltitude-Multimodal-Dataset)
-[![ScienceDB](https://img.shields.io/badge/Dataset-ScienceDB-4b6f44?style=flat-square)](https://www.scidb.cn/detail?dataSetId=203705443be44f7882bb9ddfd7d401da)
-[![Labeler](https://img.shields.io/badge/Labeler-Project%20Page-167c80?style=flat-square)](https://jennyzhang0810.github.io/UAIV-Labeler/)
-[![Foundry](https://img.shields.io/badge/Foundry-Project%20Page-b87918?style=flat-square)](https://jennyzhang0810.github.io/UAIV-Foundry/)
 
 </div>
 
@@ -51,6 +45,13 @@ Advised by [Prof. Yang Yang](https://cfm.uestc.edu.cn/~yangyang/) and [Prof. Wan
 ---
 
 ## UAIV Low-Altitude Data Ecosystem
+
+**UAIV Low-Altitude Data Ecosystem**  
+[![Dataset Project](https://img.shields.io/badge/Dataset-Project%20Page-2f5f8f?style=flat-square)](https://jennyzhang0810.github.io/LowAltitude-Multimodal-Dataset/)
+[![Dataset GitHub](https://img.shields.io/badge/Dataset-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JennyZhang0810/LowAltitude-Multimodal-Dataset)
+[![ScienceDB](https://img.shields.io/badge/Dataset-ScienceDB-4b6f44?style=flat-square)](https://www.scidb.cn/detail?dataSetId=203705443be44f7882bb9ddfd7d401da)
+[![Labeler](https://img.shields.io/badge/Labeler-Project%20Page-167c80?style=flat-square)](https://jennyzhang0810.github.io/UAIV-Labeler/)
+[![Foundry](https://img.shields.io/badge/Foundry-Project%20Page-b87918?style=flat-square)](https://jennyzhang0810.github.io/UAIV-Foundry/)
 
 My current low-altitude data work is organized as a three-part ecosystem. The goal is not only to publish a dataset or an annotation tool, but to make the whole data lifecycle reproducible:
 
