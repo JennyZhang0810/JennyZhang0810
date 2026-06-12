@@ -8,7 +8,7 @@
 
 Low-altitude UAV Datasets · Data Production Systems · Structure-aware Synthesis · Low-shot Detection · Benchmark Construction
 
-[![Email](https://img.shields.io/badge/Email-202421080308@std.uestc.edu.cn-333?style=flat-square&logo=gmail&logoColor=white)](mailto:202421080308@std.uestc.edu.cn)
+[![Email](https://img.shields.io/badge/Email-jennyzhang@std.uestc.edu.cn-333?style=flat-square&logo=gmail&logoColor=white)](mailto:jennyzhang@std.uestc.edu.cn)
 [![GitHub](https://img.shields.io/badge/GitHub-JennyZhang0810-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JennyZhang0810)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Jenny%20Zhang-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com.hk/citations?user=ONaB5qUAAAAJ)
 
@@ -60,6 +60,7 @@ Data collection -> Human annotation -> QA and release -> Benchmark evaluation ->
 
 | Layer | Project | Role | Entry Points |
 |:--|:--|:--|:--|
+| Data Generation | **S²-Det** | Structure-aware synthetic data generation for few-shot remote-sensing object detection; studies how spatial priors and distribution matching affect synthetic data utility. | [Code](https://github.com/JennyZhang0810/Neurips2026-s2det) |
 | Dataset Product | **UAIV-Real / UAIV Dataset** | Public-facing low-altitude multimodal UAV dataset for urban/ecological perception, restoration, and benchmark construction. | [Project](https://jennyzhang0810.github.io/LowAltitude-Multimodal-Dataset/) · [GitHub](https://github.com/JennyZhang0810/LowAltitude-Multimodal-Dataset) · [ScienceDB](https://www.scidb.cn/detail?dataSetId=203705443be44f7882bb9ddfd7d401da) |
 | Human Annotation | **UAIV-Labeler** | Human-in-the-loop annotation workbench for metadata-aware indexing, model pre-annotation, scene/object/OCR/event/environment labeling, review, and export. | [Project](https://jennyzhang0810.github.io/UAIV-Labeler/) · [GitHub](https://github.com/JennyZhang0810/UAIV-Labeler) · [Live Demo](http://8.137.184.86/) |
 | Data Infrastructure | **UAIV-Foundry** | Data production OS that organizes resources, generates manifests, calibrates Golden samples, checks annotation quality, prepares releases, runs benchmark protocols, and turns failures into the next data iteration. | [Project](https://jennyzhang0810.github.io/UAIV-Foundry/) · [GitHub](https://github.com/JennyZhang0810/UAIV-Foundry) |
@@ -156,7 +157,7 @@ This stack is designed to turn low-altitude UAV data construction into a reprodu
 
 ## Community
 
-Beyond research, I share learning methods, PhD life, and personal growth content with Chinese student communities, with 30K+ followers across Xiaohongshu, Zhihu, and [CSDN](https://blog.csdn.net/qq_53826699). I have also hosted offline reading clubs and student talk sessions.
+Beyond research, I share learning methods, PhD life, and personal growth content with Chinese student communities, with 30K+ followers across [Xiaohongshu](https://www.xiaohongshu.com/user/profile/5b83ef0e3be32600019bdeba), Zhihu, and [CSDN](https://blog.csdn.net/qq_53826699). I have also hosted offline reading clubs and student talk sessions.
 
 ---
 
@@ -172,7 +173,7 @@ I am open to collaborations on:
 
 Contact:
 
-- Official: [202421080308@std.uestc.edu.cn](mailto:202421080308@std.uestc.edu.cn)
+- Official: [jennyzhang@std.uestc.edu.cn](mailto:jennyzhang@std.uestc.edu.cn)
 - Personal: 870076398@qq.com
 
 ---
