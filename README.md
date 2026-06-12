@@ -36,17 +36,24 @@ Advised by [Prof. Wang Guoqing](https://scholar.google.com.hk/citations?hl=zh-CN
 ## Recent News
 
 - 🎤 **[2026.06] Invited to give a talk at the 2026 International Conference on UAV Applications and Countermeasures / 2026 Conference on Intelligent Unmanned Systems and Applications**, presenting my work as the only student speaker in the event.
-- 🎤 **[2026.03] Invited to give a keynote-style talk at the "Innovation Leadership · Smart Liangxi" development conference session in Wuxi, Jiangsu**, presenting as the only student speaker in the event.
 - 🧭 **[2026.06] Prepared the initial [UAIV-Foundry](https://jennyzhang0810.github.io/UAIV-Foundry/) project page**, a data production operating system for low-altitude multimodal datasets. The project is currently in pre-release engineering status.
 - 🔥 **[2026.05] Released [UAIV-Labeler](https://jennyzhang0810.github.io/UAIV-Labeler/)**, an open-source semi-automatic labeling platform for low-altitude UAV remote-sensing datasets. Code is available on [GitHub](https://github.com/JennyZhang0810/UAIV-Labeler), with a live demo at [8.137.184.86](http://8.137.184.86/).
 - 🔥 **[2026.05] Released the [UAIV Low-Altitude Multimodal Dataset](https://jennyzhang0810.github.io/LowAltitude-Multimodal-Dataset/)**, with code on [GitHub](https://github.com/JennyZhang0810/LowAltitude-Multimodal-Dataset) and data hosted on [ScienceDB](https://www.scidb.cn/detail?dataSetId=203705443be44f7882bb9ddfd7d401da).
 - 📑 **[2026.05] [S²-Det](https://github.com/JennyZhang0810/Neurips2026-s2det)**, Structure-Aware Synthesis for Few-Shot Detection, is under review at **NeurIPS 2026**.
+- 🎤 **[2026.03] Invited to give a keynote-style talk at the "Innovation Leadership · Smart Liangxi" development conference session in Wuxi, Jiangsu**, presenting as the only student speaker in the event.
+- 🎤 **[2025.11] Invited to give a keynote-style talk at the World Internet Conference WAYS+ Youth Salon**, presenting as the only student speaker in the event.
+- 🏆 **[2025] Awarded the National Scholarship during graduate study with a full GPA record**, along with the First-class Academic Scholarship, Outstanding Graduate Student, and Outstanding Graduate Student Cadre honors at UESTC.
+- 🏆 **[2025] Won the FLTRP Cup National English Debate Championship and National Best Debater.**
 - 📄 **[2024] Published underwater image restoration work in Applied Optics**.
-- 🏆 **[2025] National Scholarship and FLTRP Cup National English Debate Champion & Best Debater**.
+- 🏆 **[2024] Received Shandong provincial honors**, including Outstanding Graduate, Outstanding Student Cadre, and Outstanding Undergraduate Thesis.
+- 🎓 **[2023] Ranked 1st academically during undergraduate study and was recommended for postgraduate admission to UESTC.**
+- 📰 **Selected media coverage:** UESTC "Holistic Education" youth representative feature ([WeChat](https://mp.weixin.qq.com/s/u7JlelEkxGUc0SlxUXVZPQ)); School of Computer Science and Engineering, UESTC news ([SCSE](https://www.scse.uestc.edu.cn/info/1009/18228.htm)); UESTC / team story ([WeChat](https://mp.weixin.qq.com/s/IMV4qFgPZWVSXwCr3tRiOQ)).
 
 ---
 
 ## UAIV Low-Altitude Data Ecosystem
+
+<div align="center">
 
 **UAIV Low-Altitude Data Ecosystem**  
 [![Dataset Project](https://img.shields.io/badge/Dataset-Project%20Page-2f5f8f?style=flat-square)](https://jennyzhang0810.github.io/LowAltitude-Multimodal-Dataset/)
@@ -54,6 +61,8 @@ Advised by [Prof. Wang Guoqing](https://scholar.google.com.hk/citations?hl=zh-CN
 [![ScienceDB](https://img.shields.io/badge/Dataset-ScienceDB-4b6f44?style=flat-square)](https://www.scidb.cn/detail?dataSetId=203705443be44f7882bb9ddfd7d401da)
 [![Labeler](https://img.shields.io/badge/Labeler-Project%20Page-167c80?style=flat-square)](https://jennyzhang0810.github.io/UAIV-Labeler/)
 [![Foundry](https://img.shields.io/badge/Foundry-Project%20Page-b87918?style=flat-square)](https://jennyzhang0810.github.io/UAIV-Foundry/)
+
+</div>
 
 My current low-altitude data work is organized as a data-centric stack. The goal is not only to publish a dataset or an annotation tool, but to make the whole data lifecycle reproducible:
 
@@ -115,34 +124,6 @@ This stack is designed to turn low-altitude UAV data construction into a reprodu
 - Information-controllable remote-sensing object image simulation software V1.0.
 - Intelligent air-combat advantage calculation and multi-aircraft cooperative combat situation analysis software V1.0.
 - Worker operation standardization visual detection algorithm software V1.0.
-
----
-
-## Honors
-
-| Year | Honor | Note |
-|:--|:--|:--|
-| 2025 | National Scholarship | Awarded during graduate study with a full GPA record |
-| 2025 | First-class Academic Scholarship, UESTC | Graduate academic scholarship |
-| 2025 | Outstanding Graduate Student, UESTC | University-level academic honor |
-| 2025 | Outstanding Graduate Student Cadre, UESTC | University-level service and leadership honor |
-| 2024 | Outstanding Graduate, Shandong Province | Provincial graduate honor |
-| 2024 | Outstanding Student Cadre, Shandong Province | Provincial service and leadership honor |
-| 2024 | Outstanding Undergraduate Thesis, Shandong Province | Provincial thesis honor |
-| 2023 | Ranked 1st academically during undergraduate study | Recommended for postgraduate admission to UESTC |
-
----
-
-## Media and News Coverage
-
-**Personal features**
-
-- UESTC "Holistic Education" youth representative feature: [WeChat article](https://mp.weixin.qq.com/s/u7JlelEkxGUc0SlxUXVZPQ)
-
-**Team and school stories**
-
-- School of Computer Science and Engineering, UESTC news: [SCSE news page](https://www.scse.uestc.edu.cn/info/1009/18228.htm)
-- UESTC / team story: [WeChat article](https://mp.weixin.qq.com/s/IMV4qFgPZWVSXwCr3tRiOQ)
 
 ---
 
