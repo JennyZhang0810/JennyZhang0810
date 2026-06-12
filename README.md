@@ -23,7 +23,7 @@ I am a Master-PhD combined program student at the [School of Computer Science an
 
 My research focuses on **data-centric computer vision** for remote sensing and low-altitude UAV perception. I study how data is generated, labeled, evaluated, released, and reused, with current interests in low-altitude multimodal datasets, data production operating systems, structure-aware synthetic data, low-shot detection, and benchmark construction.
 
-Advised by [Prof. Yang Yang](https://cfm.uestc.edu.cn/~yangyang/) and [Prof. Wang Guoqing](https://scholar.google.com.hk/citations?hl=zh-CN&user=V08v5OEAAAAJ).
+Advised by [Prof. Wang Guoqing](https://scholar.google.com.hk/citations?hl=zh-CN&user=V08v5OEAAAAJ) and [Prof. Yang Yang](https://cfm.uestc.edu.cn/~yangyang/).
 
 **Keywords:** `Data-centric AI` · `Low-altitude UAV Dataset` · `Data Production OS` · `Remote Sensing` · `Synthetic Data` · `Few-shot Detection` · `Metadata-first Labeling` · `Benchmark Construction`
 
