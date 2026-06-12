@@ -35,6 +35,7 @@ Advised by [Prof. Yang Yang](https://cfm.uestc.edu.cn/~yangyang/) and [Prof. Wan
 
 ## Recent News
 
+- 🎤 **[2026.06] Invited to give a talk at the 2026 International Conference on UAV Applications and Countermeasures / 2026 Conference on Intelligent Unmanned Systems and Applications**, presenting my work as the only student speaker in the event.
 - 🧭 **[2026.06] Prepared the initial [UAIV-Foundry](https://jennyzhang0810.github.io/UAIV-Foundry/) project page**, a data production operating system for low-altitude multimodal datasets. The project is currently in pre-release engineering status.
 - 🔥 **[2026.05] Released [UAIV-Labeler](https://jennyzhang0810.github.io/UAIV-Labeler/)**, an open-source semi-automatic labeling platform for low-altitude UAV remote-sensing datasets. Code is available on [GitHub](https://github.com/JennyZhang0810/UAIV-Labeler), with a live demo at [8.137.184.86](http://8.137.184.86/).
 - 🔥 **[2026.05] Released the [UAIV Low-Altitude Multimodal Dataset](https://jennyzhang0810.github.io/LowAltitude-Multimodal-Dataset/)**, with code on [GitHub](https://github.com/JennyZhang0810/LowAltitude-Multimodal-Dataset) and data hosted on [ScienceDB](https://www.scidb.cn/detail?dataSetId=203705443be44f7882bb9ddfd7d401da).
@@ -53,7 +54,7 @@ Advised by [Prof. Yang Yang](https://cfm.uestc.edu.cn/~yangyang/) and [Prof. Wan
 [![Labeler](https://img.shields.io/badge/Labeler-Project%20Page-167c80?style=flat-square)](https://jennyzhang0810.github.io/UAIV-Labeler/)
 [![Foundry](https://img.shields.io/badge/Foundry-Project%20Page-b87918?style=flat-square)](https://jennyzhang0810.github.io/UAIV-Foundry/)
 
-My current low-altitude data work is organized as a three-part ecosystem. The goal is not only to publish a dataset or an annotation tool, but to make the whole data lifecycle reproducible:
+My current low-altitude data work is organized as a data-centric stack. The goal is not only to publish a dataset or an annotation tool, but to make the whole data lifecycle reproducible:
 
 ```text
 Data collection -> Data annotation -> QA and release -> Benchmark evaluation -> Data iteration
@@ -92,6 +93,13 @@ This stack is designed to turn low-altitude UAV data construction into a reprodu
 
 ---
 
+## Academic Service and Invited Talks
+
+- **Invited Speaker**, 2026 International Conference on UAV Applications and Countermeasures / 2026 Conference on Intelligent Unmanned Systems and Applications, 2026. Presented my research as the only student speaker in the event.
+- **Reviewer**, *CAAI Transactions on Intelligence Technology*, 2026. CAAI flagship journal; CAS Zone 1 Top, JCR Q1, IF 7.3.
+
+---
+
 ## Intellectual Property
 
 **Patent**
@@ -111,14 +119,14 @@ This stack is designed to turn low-altitude UAV data construction into a reprodu
 
 | Year | Honor | Note |
 |:--|:--|:--|
-| 2025 | National Scholarship | National-level graduate student scholarship in China |
+| 2025 | National Scholarship | Awarded during graduate study with a full GPA record |
+| 2025 | First-class Academic Scholarship, UESTC | Graduate academic scholarship |
 | 2025 | Outstanding Graduate Student, UESTC | University-level academic honor |
-| 2025 | First-class Academic Scholarship, UESTC | University scholarship |
 | 2025 | Outstanding Graduate Student Cadre, UESTC | University-level service and leadership honor |
 | 2024 | Outstanding Graduate, Shandong Province | Provincial graduate honor |
-| 2024 | Outstanding Graduate Thesis, Shandong Province | Provincial thesis honor |
 | 2024 | Outstanding Student Cadre, Shandong Province | Provincial service and leadership honor |
-| 2023 | Ranked 1st in pre-admission assessment for direct PhD program | Direct PhD admission assessment |
+| 2024 | Outstanding Undergraduate Thesis, Shandong Province | Provincial thesis honor |
+| 2023 | Ranked 1st academically during undergraduate study | Recommended for postgraduate admission to UESTC |
 
 ---
 
