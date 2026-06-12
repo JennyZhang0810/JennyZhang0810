@@ -4,12 +4,13 @@
 
 **PhD Student @ UESTC · Computer Vision · Remote Sensing · Data-centric AI**
 
-Low-altitude UAV Datasets · Data Production Systems · Data-centric AI · Structure-aware Synthesis · Low-shot Detection · Benchmark Construction
+> Data is not just fuel. It defines what a model can see, learn, and generalize.
+
+Low-altitude UAV Datasets · Data Production Systems · Structure-aware Synthesis · Low-shot Detection · Benchmark Construction
 
 [![Email](https://img.shields.io/badge/Email-202421080308@std.uestc.edu.cn-333?style=flat-square&logo=gmail&logoColor=white)](mailto:202421080308@std.uestc.edu.cn)
 [![GitHub](https://img.shields.io/badge/GitHub-JennyZhang0810-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JennyZhang0810)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Jenny%20Zhang-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com.hk/citations?user=ONaB5qUAAAAJ)
-[![CSDN](https://img.shields.io/badge/CSDN-Jenny-DC382D?style=flat-square&logo=csdn&logoColor=white)](https://blog.csdn.net/qq_53826699)
 
 **UAIV Low-Altitude Data Ecosystem**  
 [![Dataset Project](https://img.shields.io/badge/Dataset-Project%20Page-2f5f8f?style=flat-square)](https://jennyzhang0810.github.io/LowAltitude-Multimodal-Dataset/)
@@ -22,15 +23,15 @@ Low-altitude UAV Datasets · Data Production Systems · Data-centric AI · Struc
 
 ---
 
-## Featured Research Assets
+## About
 
-| Work | Type | Why It Matters | Links |
-|:--|:--|:--|:--|
-| **UAIV Low-Altitude Multimodal Dataset** | Dataset / Benchmark | The data product of the UAIV ecosystem: low-altitude multimodal UAV remote-sensing data for urban/ecological understanding, restoration, and benchmark construction. | [Project](https://jennyzhang0810.github.io/LowAltitude-Multimodal-Dataset/) · [GitHub](https://github.com/JennyZhang0810/LowAltitude-Multimodal-Dataset) · [ScienceDB](https://www.scidb.cn/detail?dataSetId=203705443be44f7882bb9ddfd7d401da) |
-| **UAIV-Labeler** | Annotation Platform | The human annotation workbench for UAIV data production. Supports metadata-first indexing, model pre-annotation, manual labeling, review, QA-oriented export, and benchmark conversion. | [Project](https://jennyzhang0810.github.io/UAIV-Labeler/) · [GitHub](https://github.com/JennyZhang0810/UAIV-Labeler) · [Demo](http://8.137.184.86/) |
-| **UAIV-Foundry** | Data Production OS | The infrastructure layer around dataset construction: resource curation, manifest planning, Golden Dataset calibration, annotation QA, release readiness, benchmark protocols, and failure-to-data iteration. | [Project](https://jennyzhang0810.github.io/UAIV-Foundry/) · [GitHub](https://github.com/JennyZhang0810/UAIV-Foundry) |
-| **S²-Det** | Paper / Method | Structure-aware synthetic data generation for few-shot object detection. Studies how spatial priors and distribution matching affect synthetic data utility. | [Code](https://github.com/JennyZhang0810/Neurips2026-s2det) |
-| **Underwater Image Restoration** | Paper | Hybrid underwater image restoration framework for adaptive color correction and dehazing. | [Paper](https://opg.optica.org/ao/abstract.cfm?uri=ao-63-10-2728) |
+I am a Master-PhD combined program student at the [School of Computer Science and Engineering](https://www.scse.uestc.edu.cn/), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/), and a member of [Center for Future Media](https://cfm.uestc.edu.cn/index), UESTC.
+
+My research focuses on **data-centric computer vision** for remote sensing and low-altitude UAV perception. I study how data is generated, labeled, evaluated, released, and reused, with current interests in low-altitude multimodal datasets, data production operating systems, structure-aware synthetic data, low-shot detection, and benchmark construction.
+
+Advised by [Prof. Yang Yang](https://cfm.uestc.edu.cn/~yangyang/) and [Prof. Wang Guoqing](https://scholar.google.com.hk/citations?hl=zh-CN&user=V08v5OEAAAAJ).
+
+**Keywords:** `Data-centric AI` · `Low-altitude UAV Dataset` · `Data Production OS` · `Remote Sensing` · `Synthetic Data` · `Few-shot Detection` · `Metadata-first Labeling` · `Benchmark Construction`
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/JennyZhang0810/UAIV-Labeler/main/assets/sample_preview.gif" width="70%" alt="UAIV-Labeler Preview">
@@ -49,49 +50,21 @@ Low-altitude UAV Datasets · Data Production Systems · Data-centric AI · Struc
 
 ---
 
-## About
-
-I am a Master-PhD combined program student at the [School of Computer Science and Engineering](https://www.scse.uestc.edu.cn/), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/), and a member of [Center for Future Media](https://cfm.uestc.edu.cn/index), UESTC.
-
-My research focuses on **data-centric computer vision**, especially how data is generated, labeled, evaluated, and reused for remote sensing and low-shot perception.
-
-Current research interests:
-
-- **Low-altitude UAV remote-sensing datasets** with rich metadata and multi-task annotations.
-- **Data production operating systems** for dataset planning, annotation QA, release readiness, and benchmark-driven iteration.
-- **Structure-aware synthetic data generation** for few-shot and cross-domain object detection.
-- **Benchmark construction** for urban foundation models, ecological foundation models, and image restoration.
-- **Semi-automatic labeling systems** combining model pre-annotation and human review.
-
-Advised by [Prof. Yang Yang](https://cfm.uestc.edu.cn/~yangyang/) and [Prof. Wang Guoqing](https://scholar.google.com.hk/citations?hl=zh-CN&user=V08v5OEAAAAJ).
-
----
-
-## Research Direction
-
-> Data is not just fuel. It defines what a model can see, learn, and generalize.
-
-My work is organized around a full data lifecycle:
-
-```text
-Data synthesis -> Data labeling -> Metadata management -> QA and release -> Benchmark evaluation -> Model improvement
-```
-
-Key questions I care about:
-
-- How can synthetic data be made structurally consistent with real remote-sensing scenes?
-- How should low-altitude UAV datasets be organized for multimodal, multi-task learning?
-- How can labeling platforms reduce annotation cost while keeping data production auditable?
-- How can dataset production pipelines make annotation quality, release readiness, and benchmark feedback traceable?
-- How can we evaluate whether generated or labeled data truly improves downstream perception?
-
-**Research Keywords:** `Data-centric AI` · `Data Production OS` · `Remote Sensing Generation` · `Low-altitude UAV Dataset` · `Synthetic Data` · `Few-shot Detection` · `Cross-domain Detection` · `Metadata-first Labeling` · `Benchmark Construction` · `Image Restoration`
-
----
-
 ## UAIV Low-Altitude Data Ecosystem
 
-My current low-altitude data work is organized as a three-part ecosystem. The goal is not only to publish a dataset or an annotation tool, but to make the whole data lifecycle reproducible.
+My current low-altitude data work is organized as a three-part ecosystem. The goal is not only to publish a dataset or an annotation tool, but to make the whole data lifecycle reproducible:
+
+```text
+Data collection -> Human annotation -> QA and release -> Benchmark evaluation -> Data iteration
+```
+
+| Layer | Project | Role | Entry Points |
+|:--|:--|:--|:--|
+| Dataset Product | **UAIV-Real / UAIV Dataset** | Public-facing low-altitude multimodal UAV dataset for urban/ecological perception, restoration, and benchmark construction. | [Project](https://jennyzhang0810.github.io/LowAltitude-Multimodal-Dataset/) · [GitHub](https://github.com/JennyZhang0810/LowAltitude-Multimodal-Dataset) · [ScienceDB](https://www.scidb.cn/detail?dataSetId=203705443be44f7882bb9ddfd7d401da) |
+| Human Annotation | **UAIV-Labeler** | Human-in-the-loop annotation workbench for metadata-aware indexing, model pre-annotation, scene/object/OCR/event/environment labeling, review, and export. | [Project](https://jennyzhang0810.github.io/UAIV-Labeler/) · [GitHub](https://github.com/JennyZhang0810/UAIV-Labeler) · [Live Demo](http://8.137.184.86/) |
+| Data Infrastructure | **UAIV-Foundry** | Data production OS that organizes resources, generates manifests, calibrates Golden samples, checks annotation quality, prepares releases, runs benchmark protocols, and turns failures into the next data iteration. | [Project](https://jennyzhang0810.github.io/UAIV-Foundry/) · [GitHub](https://github.com/JennyZhang0810/UAIV-Foundry) |
+
+The goal is to move beyond releasing isolated datasets or tools, and instead build a reproducible data-centric workflow:
 
 ```text
 UAIV-Real is what we release.
@@ -99,7 +72,7 @@ UAIV-Labeler is where humans annotate.
 UAIV-Foundry is how we make the process auditable, measurable, and reusable.
 ```
 
-Together, these projects aim to turn low-altitude UAV data construction into a reproducible data-centric workflow rather than a one-off dataset release.
+This stack is designed to turn low-altitude UAV data construction into a reproducible data-centric workflow rather than a one-off dataset release.
 
 ---
 
@@ -107,10 +80,12 @@ Together, these projects aim to turn low-altitude UAV data construction into a r
 
 - **S²-Det: Structure-Aware Synthesis for Few-Shot Detection**  
   *Under review at NeurIPS 2026.*  
+  Studies how explicit spatial structure priors and distribution matching can make synthetic remote-sensing images more useful for few-shot detection.  
   [Code](https://github.com/JennyZhang0810/Neurips2026-s2det)
 
 - **Underwater Image Restoration with Adaptive Color Correction and Dehazing**  
   *Applied Optics, 2024.*  
+  Proposes a hybrid restoration framework that combines adaptive color correction and dehazing for underwater image enhancement.  
   [Paper](https://opg.optica.org/ao/abstract.cfm?uri=ao-63-10-2728)
 
 ---
@@ -132,16 +107,29 @@ Together, these projects aim to turn low-altitude UAV data construction into a r
 
 ## Honors
 
-| Year | Honor |
-|:--|:--|
-| 2025 | National Scholarship |
-| 2025 | Outstanding Graduate Student, UESTC |
-| 2025 | First-class Academic Scholarship, UESTC |
-| 2025 | Outstanding Graduate Student Cadre, UESTC |
-| 2024 | Outstanding Graduate, Shandong Province |
-| 2024 | Outstanding Graduate Thesis, Shandong Province |
-| 2024 | Outstanding Student Cadre, Shandong Province |
-| 2023 | Ranked 1st in pre-admission assessment for direct PhD program |
+| Year | Honor | Note |
+|:--|:--|:--|
+| 2025 | National Scholarship | National-level graduate student scholarship in China |
+| 2025 | Outstanding Graduate Student, UESTC | University-level academic honor |
+| 2025 | First-class Academic Scholarship, UESTC | University scholarship |
+| 2025 | Outstanding Graduate Student Cadre, UESTC | University-level service and leadership honor |
+| 2024 | Outstanding Graduate, Shandong Province | Provincial graduate honor |
+| 2024 | Outstanding Graduate Thesis, Shandong Province | Provincial thesis honor |
+| 2024 | Outstanding Student Cadre, Shandong Province | Provincial service and leadership honor |
+| 2023 | Ranked 1st in pre-admission assessment for direct PhD program | Direct PhD admission assessment |
+
+---
+
+## Media and News Coverage
+
+**Personal features**
+
+- UESTC "Holistic Education" youth representative feature: [WeChat article](https://mp.weixin.qq.com/s/u7JlelEkxGUc0SlxUXVZPQ)
+
+**Team and school stories**
+
+- School of Computer Science and Engineering, UESTC news: [SCSE news page](https://www.scse.uestc.edu.cn/info/1009/18228.htm)
+- UESTC / team story: [WeChat article](https://mp.weixin.qq.com/s/IMV4qFgPZWVSXwCr3tRiOQ)
 
 ---
 
@@ -168,12 +156,7 @@ Together, these projects aim to turn low-altitude UAV data construction into a r
 
 ## Community
 
-Beyond research, I share learning methods, PhD life, and personal growth content across Chinese platforms.
-
-- Learning blogger with 30K+ followers across Xiaohongshu, Zhihu, and CSDN.
-- Host of 30+ offline reading clubs and 40+ hours of student talk sessions.
-- Featured as the only female candidate in UESTC's "Holistic Education" youth representative series: [interview](https://mp.weixin.qq.com/s/u7JlelEkxGUc0SlxUXVZPQ).
-- Interests: piano, English debating, traveling, and calligraphy.
+Beyond research, I share learning methods, PhD life, and personal growth content with Chinese student communities, with 30K+ followers across Xiaohongshu, Zhihu, and [CSDN](https://blog.csdn.net/qq_53826699). I have also hosted offline reading clubs and student talk sessions.
 
 ---
 
