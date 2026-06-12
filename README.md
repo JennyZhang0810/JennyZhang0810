@@ -27,9 +27,9 @@ Advised by [Prof. Yang Yang](https://cfm.uestc.edu.cn/~yangyang/) and [Prof. Wan
 
 **Keywords:** `Data-centric AI` · `Low-altitude UAV Dataset` · `Data Production OS` · `Remote Sensing` · `Synthetic Data` · `Few-shot Detection` · `Metadata-first Labeling` · `Benchmark Construction`
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/JennyZhang0810/UAIV-Labeler/main/assets/sample_preview.gif" width="70%" alt="UAIV-Labeler Preview">
-</p>
+</p> -->
 
 ---
 
