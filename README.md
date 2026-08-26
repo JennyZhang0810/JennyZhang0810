@@ -64,129 +64,162 @@ Beyond the lab, I have led the commercialization of computer vision systems depl
 
 </div>
 
-My current low-altitude data work is organized as a data-centric stack. The goal is not only to publish a dataset or an annotation tool, but to make the whole data lifecycle reproducible:
+My current low-altitude data work is organized as a data-centric stack. The goal is not only to publish a dataset or an annotation tool, but to make the whole data lifecycle reproducible.
 
-```text
-Data collection -> Data annotation -> QA and release -> Benchmark evaluation -> Data iteration
-Layer	Project	Role	Entry Points
-Data Generation	S²-Det	Structure-aware synthetic data generation for few-shot remote-sensing object detection; studies how spatial priors and distribution matching affect synthetic data utility.	Code
-Dataset Product	UAIV-Real / UAIV Dataset	Public-facing low-altitude multimodal UAV dataset for urban/ecological perception, restoration, and benchmark construction.	Project · GitHub · ScienceDB
-Data Annotation	UAIV-Labeler	Human-in-the-loop annotation workbench for metadata-aware indexing, model pre-annotation, scene/object/OCR/event/environment labeling, review, and export.	Project · GitHub · Live Demo
-Data Infrastructure	UAIV-Foundry	Data production OS that organizes resources, generates manifests, calibrates Golden samples, checks annotation quality, prepares releases, runs benchmark protocols, and turns failures into the next data iteration.	Project · GitHub
-The goal is to move beyond releasing isolated datasets or tools, and instead build a reproducible data-centric workflow:
+The workflow can be summarized as:
 
-text
-UAIV-Real is what we release.
-UAIV-Labeler is where data is annotated.
-UAIV-Foundry is how we make the process auditable, measurable, and reusable.
+`Data collection -> Data annotation -> QA and release -> Benchmark evaluation -> Data iteration`
+
+| Layer | Project | Role | Entry Points |
+|:--|:--|:--|:--|
+| Data Generation | **S²-Det** | Structure-aware synthetic data generation for few-shot remote-sensing object detection; studies how spatial priors and distribution matching affect synthetic data utility. | [Code](https://github.com/JennyZhang0810/Neurips2026-s2det) |
+| Dataset Product | **UAIV-Real / UAIV Dataset** | Public-facing low-altitude multimodal UAV dataset for urban/ecological perception, restoration, and benchmark construction. | [Project](https://jennyzhang0810.github.io/LowAltitude-Multimodal-Dataset/) · [GitHub](https://github.com/JennyZhang0810/LowAltitude-Multimodal-Dataset) · [ScienceDB](https://www.scidb.cn/detail?dataSetId=203705443be44f7882bb9ddfd7d401da) |
+| Data Annotation | **UAIV-Labeler** | Human-in-the-loop annotation workbench for metadata-aware indexing, model pre-annotation, scene/object/OCR/event/environment labeling, review, and export. | [Project](https://jennyzhang0810.github.io/UAIV-Labeler/) · [GitHub](https://github.com/JennyZhang0810/UAIV-Labeler) · [Live Demo](http://8.137.184.86/) |
+| Data Infrastructure | **UAIV-Foundry** | Data production OS that organizes resources, generates manifests, calibrates Golden samples, checks annotation quality, prepares releases, runs benchmark protocols, and turns failures into the next data iteration. | [Project](https://jennyzhang0810.github.io/UAIV-Foundry/) · [GitHub](https://github.com/JennyZhang0810/UAIV-Foundry) |
+
+The goal is to move beyond releasing isolated datasets or tools, and instead build a reproducible data-centric workflow.
+
+Three core principles:
+
+- `UAIV-Real` is what we release.
+- `UAIV-Labeler` is where data is annotated.
+- `UAIV-Foundry` is how we make the process auditable, measurable, and reusable.
+
 This stack is designed to turn low-altitude UAV data construction into a reproducible data-centric workflow rather than a one-off dataset release.
 
-Entrepreneurship & Industrial Impact
-Low-Altitude Intelligent Sensing Platform & Agent Store
-Student Team Project Lead
+---
 
-Led the development of a low-altitude intelligence sensing large model and a low-altitude intelligent agent store.
+## Entrepreneurship & Industrial Impact
 
-Achieved 100% deployment across all districts and counties of Xuzhou, Jiangsu, providing hardware sales/leasing, software subscriptions, data services, and customized consulting — forming a multi-dimensional revenue model.
+**Low-Altitude Intelligent Sensing Platform & Agent Store**  
+*Student Team Project Lead*  
+- Led the development of a low-altitude intelligence sensing large model and a low-altitude intelligent agent store.
+- Achieved **100% deployment across all districts and counties of Xuzhou, Jiangsu**, providing hardware sales/leasing, software subscriptions, data services, and customized consulting — forming a multi-dimensional revenue model.
+- Technical achievements were reported by **CCTV, Xinhua News**, and other mainstream media.
+- Represented the team in **HICOOL International Innovation and Entrepreneurship Competition** (Hong Kong, June 2025) and local government innovation competitions (Yixing & Wuxi, July-August 2025).
+- Won the **Yixing Government Direct Pass (policy support of 8 million RMB)** and obtained **Wuxi Government landing preferential policies** (under negotiation).
+- Currently leading the application for the Yixing "Taodu Elite" Science and Technology Innovation Talent (Team) Project.
 
-Technical achievements were reported by CCTV, Xinhua News, and other mainstream media.
+**Industrial Computer Vision for Smart Manufacturing**  
+*Project Contributor*  
+- Completed core computer vision algorithm development and achieved real-world deployment in **Haier factories**.
+- Secured **820,000 RMB** in project collaboration bonuses.
 
-Represented the team in HICOOL International Innovation and Entrepreneurship Competition (Hong Kong, June 2025) and local government innovation competitions (Yixing & Wuxi, July-August 2025).
+---
 
-Won the Yixing Government Direct Pass (policy support of 8 million RMB) and obtained Wuxi Government landing preferential policies (under negotiation).
+## Publications / Preprints
 
-Currently leading the application for the Yixing "Taodu Elite" Science and Technology Innovation Talent (Team) Project.
+- **S²-Det: Structure-Aware Synthesis for Few-Shot Detection**  
+  *Under review at NeurIPS 2026 (Top-tier AI Conference).*  
+  Studies how explicit spatial structure priors and distribution matching can make synthetic remote-sensing images more useful for few-shot detection.  
+  [Code](https://github.com/JennyZhang0810/Neurips2026-s2det)
 
-Industrial Computer Vision for Smart Manufacturing
-Project Contributor
+- **Hierarchical Consistency Learning for Test-time Adaptation in Camouflage Perception**  
+  *Accepted by IEEE Transactions on Image Processing (TIP), 2026. (CCF-A)*  
 
-Completed core computer vision algorithm development and achieved real-world deployment in Haier factories.
+- **UrbanEagle-4K: Towards Active Visual Evidence Seeking for Low-Altitude Urban Governance Vision-Language Tasks**  
+  *Under review at AAAI 2026 (CCF-A).*  
 
-Secured 820,000 RMB in project collaboration bonuses.
+- **A Multi-Level Task-Oriented UAV Dataset for Urban Visual Understanding**  
+  *Under review at Scientific Data (Nature Portfolio), 2026.*  
 
-Publications / Preprints
-S²-Det: Structure-Aware Synthesis for Few-Shot Detection
-Under review at NeurIPS 2026 (Top-tier AI Conference).
-Studies how explicit spatial structure priors and distribution matching can make synthetic remote-sensing images more useful for few-shot detection.
-Code
+- **Underwater Image Restoration with Adaptive Color Correction and Dehazing**  
+  *Applied Optics, 2024.*  
+  Proposes a hybrid restoration framework that combines adaptive color correction and dehazing for underwater image enhancement.  
+  [Paper](https://opg.optica.org/ao/abstract.cfm?uri=ao-63-10-2728)
 
-Hierarchical Consistency Learning for Test-time Adaptation in Camouflage Perception
-Accepted by IEEE Transactions on Image Processing (TIP), 2026. (CCF-A)
+---
 
-UrbanEagle-4K: Towards Active Visual Evidence Seeking for Low-Altitude Urban Governance Vision-Language Tasks
-Under review at AAAI 2026 (CCF-A).
+## Academic Service and Invited Talks
 
-A Multi-Level Task-Oriented UAV Dataset for Urban Visual Understanding
-Under review at Scientific Data (Nature Portfolio), 2026.
+- **Academic Speaker & Session Secretary**, 2026 International Conference on UAV Applications and Countermeasures / 2026 Conference on Intelligent Unmanned Systems and Applications, 2026. Invited by the conference chair; presented as the **only student speaker**.
+- **Invited Speaker**, "Innovation Leadership · Smart Liangxi" 4th Development Conference session, Wuxi, Jiangsu, March 2026. Delivered a keynote-style talk as the **only student speaker**.
+- **Invited Speaker**, World Internet Conference WAYS+ Youth Salon, November 2025. Delivered a keynote-style talk as the **only student speaker**.
+- **Reviewer**, *CAAI Transactions on Intelligence Technology*, 2026. CAAI flagship journal; CAS Zone 1 Top, JCR Q1, IF 7.3.
 
-Underwater Image Restoration with Adaptive Color Correction and Dehazing
-Applied Optics, 2024.
-Proposes a hybrid restoration framework that combines adaptive color correction and dehazing for underwater image enhancement.
-Paper
+---
 
-Academic Service and Invited Talks
-Academic Speaker & Session Secretary, 2026 International Conference on UAV Applications and Countermeasures / 2026 Conference on Intelligent Unmanned Systems and Applications, 2026. Invited by the conference chair; presented as the only student speaker.
+## Intellectual Property
 
-Invited Speaker, "Innovation Leadership · Smart Liangxi" 4th Development Conference session, Wuxi, Jiangsu, March 2026. Delivered a keynote-style talk as the only student speaker.
+**Patent**
 
-Invited Speaker, World Internet Conference WAYS+ Youth Salon, November 2025. Delivered a keynote-style talk as the only student speaker.
+- A semantic-guided intelligent generation method for visible-light remote-sensing images.
 
-Reviewer, CAAI Transactions on Intelligence Technology, 2026. CAAI flagship journal; CAS Zone 1 Top, JCR Q1, IF 7.3.
+**Software Copyrights**
 
-Intellectual Property
-Patent
+- Semantic-guided multi-degradation image restoration system V1.0.
+- Information-controllable remote-sensing object image simulation software V1.0.
+- Intelligent air-combat advantage calculation and multi-aircraft cooperative combat situation analysis software V1.0.
+- Worker operation standardization visual detection algorithm software V1.0.
 
-A semantic-guided intelligent generation method for visible-light remote-sensing images.
+---
 
-Software Copyrights
+## Competitions
 
-Semantic-guided multi-degradation image restoration system V1.0.
+<details>
+<summary><b>Selected competition awards</b></summary>
 
-Information-controllable remote-sensing object image simulation software V1.0.
+<br>
 
-Intelligent air-combat advantage calculation and multi-aircraft cooperative combat situation analysis software V1.0.
+| Competition | Award / Rank |
+|:--|:--|
+| China International College Students' "Internet+" Innovation and Entrepreneurship Competition | National Bronze Award, ranked 1st |
+| Shandong University Student Innovation and Entrepreneurship Competition | Provincial Gold Award, highest award, ranked 1st |
+| 2025 China International College Students' Innovation Competition, Higher Education Track | Provincial Silver Award, ranked 1st |
+| 2nd Sichuan Provincial College Student Career Planning Competition, Graduate Employment Track | Provincial Bronze Award |
+| 27th FLTRP Cup National English Debate Competition | National Gold Award & National Best Debater |
+| Chinese Collegiate Computing Competition | National Third Prize |
+| National University Student Intelligent Car Race | National Second Prize |
 
-Worker operation standardization visual detection algorithm software V1.0.
-
-Competitions
-<details> <summary><b>Selected competition awards</b></summary>
-Competition	Award / Rank
-China International College Students' "Internet+" Innovation and Entrepreneurship Competition	National Bronze Award, ranked 1st
-Shandong University Student Innovation and Entrepreneurship Competition	Provincial Gold Award, highest award, ranked 1st
-2025 China International College Students' Innovation Competition, Higher Education Track	Provincial Silver Award, ranked 1st
-2nd Sichuan Provincial College Student Career Planning Competition, Graduate Employment Track	Provincial Bronze Award
-27th FLTRP Cup National English Debate Competition	National Gold Award & National Best Debater
-Chinese Collegiate Computing Competition	National Third Prize
-National University Student Intelligent Car Race	National Second Prize
 </details>
-Community
-I am a learning-focused content creator with 30K+ followers across Xiaohongshu, Zhihu, and CSDN, and total reads exceeding 10 million. I share PhD life, learning methods, technical notes, and competition experience. I am currently partnering with an MCN to scale my personal IP.
 
-Beyond content creation, I am deeply involved in student leadership and arts: I served as vice president of the university's Speech and Debate Association, student leader of a reading club (organized 30+ sessions), head of a university-level lecture team, and class monitor. I also hold a Piano Grade 10 certificate from the Chinese Musicians Association, practice six calligraphy styles with six years of training, and have performed as an accompanist in multiple university events.
+---
+
+## Community
+
+I am a learning-focused content creator with **30K+ followers across Xiaohongshu, Zhihu, and CSDN**, and total reads exceeding **10 million**. I share PhD life, learning methods, technical notes, and competition experience. I am currently partnering with an MCN to scale my personal IP.
+
+Beyond content creation, I am deeply involved in student leadership and arts: I served as vice president of the university's Speech and Debate Association, student leader of a reading club (organized 30+ sessions), head of a university-level lecture team, and class monitor. I also hold a **Piano Grade 10 certificate** from the Chinese Musicians Association, practice six calligraphy styles with six years of training, and have performed as an accompanist in multiple university events.
 
 This blend of technical depth, communication skills, and artistic training allows me to bridge the gap between rigorous research, product thinking, and community engagement.
 
-Collaboration
+---
+
+## Collaboration
+
 I am open to collaborations on:
 
-Remote-sensing image generation and synthetic data evaluation.
-
-Low-altitude UAV dataset construction and annotation systems.
-
-Data production infrastructure for annotation QA, dataset release, and benchmark iteration.
-
-Data-centric AI for object detection, segmentation, restoration, and benchmark design.
-
-Customized annotation workflows for UAV/remote-sensing tasks.
-
-Technology commercialization and industrial deployment of computer vision systems.
+- Remote-sensing image generation and synthetic data evaluation.
+- Low-altitude UAV dataset construction and annotation systems.
+- Data production infrastructure for annotation QA, dataset release, and benchmark iteration.
+- Data-centric AI for object detection, segmentation, restoration, and benchmark design.
+- Customized annotation workflows for UAV/remote-sensing tasks.
+- Technology commercialization and industrial deployment of computer vision systems.
 
 Contact:
 
-Official: jennyzhang@std.uestc.edu.cn
+- Official: [jennyzhang@std.uestc.edu.cn](mailto:jennyzhang@std.uestc.edu.cn)
+- Personal: 870076398@qq.com
 
-Personal: 870076398@qq.com
+---
 
-<details> <summary><b>GitHub Stats</b></summary><div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=JennyZhang0810&theme=default" /> </div>
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=JennyZhang0810&theme=github-light" /> </div></details>
-<p align="center"> <sub>If you find my work interesting, welcome to follow, star, or collaborate.</sub> </p> ```
+<details>
+<summary><b>GitHub Stats</b></summary>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JennyZhang0810&theme=default" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JennyZhang0810&theme=github-light" />
+</div>
+
+</details>
+
+---
+
+<p align="center">
+  <sub>If you find my work interesting, welcome to follow, star, or collaborate.</sub>
+</p>
